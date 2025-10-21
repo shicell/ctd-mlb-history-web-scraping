@@ -1,0 +1,305 @@
+Year,League,Player ID,Player Name,Team,Bases Stolen
+Year,American League,,American League,Team(s),Stolen Bases
+Year,National League,,National League,Team(s),Stolen Bases
+1876,American League,,-,-,-
+1876,National League,,-,-,-
+1877,American League,,-,-,-
+1877,National League,,-,-,-
+1878,American League,,-,-,-
+1878,National League,,-,-,-
+1879,American League,,-,-,-
+1879,National League,,-,-,-
+1880,American League,,-,-,-
+1880,National League,,-,-,-
+1881,American League,,-,-,-
+1881,National League,,-,-,-
+1882,American League,,-,-,-
+1882,National League,,-,-,-
+1883,American League,,-,-,-
+1883,National League,,-,-,-
+1884,American League,,-,-,-
+1884,National League,,-,-,-
+1885,American League,,-,-,-
+1885,National League,,-,-,-
+1886,American League,,-,-,-
+1886,National League,andreed01,Ed Andrews,Philadelphia,56
+1887,American League,,-,-,-
+1887,National League,wardjo01,John Ward,New York,111
+1888,American League,,-,-,-
+1888,National League,hoydu01,Dummy Hoy,Washington,82
+1889,American League,,-,-,-
+1889,National League,fogarji01,Jim Fogarty,Philadelphia,99
+1890,American League,,-,-,-
+1890,National League,hamilbi01,Billy Hamilton,Philadelphia,102
+1891,American League,,-,-,-
+1891,National League,hamilbi01,Billy Hamilton,Philadelphia,111
+1892,American League,,-,-,-
+1892,National League,wardjo01,John Ward,Brooklyn,88
+1893,American League,,-,-,-
+1893,National League,brownto01,Tom Brown,Louisville,66
+1894,American League,,-,-,-
+1894,National League,hamilbi01,Billy Hamilton,Philadelphia,98
+1895,American League,,-,-,-
+1895,National League,hamilbi01,Billy Hamilton,Philadelphia,97
+1896,American League,,-,-,-
+1896,National League,kellejo01,Joe Kelley,Baltimore,87
+1897,American League,,-,-,-
+1897,National League,langebi01,Bill Lange,Chicago,73
+1898,American League,,-,-,-
+1898,National League,delahed01,Ed Delahanty,Philadelphia,58
+1899,American League,,-,-,-
+1899,National League,sheckji01,Jimmy Sheckard,Baltimore,77
+1900,American League,,-,-,-
+1900,National League,donovpa01,Patsy Donovan,St. Louis,45
+1901,American League,isbelfr01,Frank Isbell,Chicago,52
+1901,National League,wagneho01,Honus Wagner,Pittsburgh,49
+1902,American League,hartsto01,Topsy Hartsel,Philadelphia,47
+1902,National League,wagneho01,Honus Wagner,Pittsburgh,42
+1903,American League,bayha01,Harry Bay,Cleveland,45
+1903,National League,chancfr01,Frank Chance,Chicago,67
+1904,American League,bayha01,Harry Bay,Cleveland,38
+1904,National League,wagneho01,Honus Wagner,Pittsburgh,53
+1905,American League,hoffmda01,Danny Hoffman,Philadelphia,46
+1905,National League,devliar01,Art Devlin,New York,59
+1906,American League,anderjo01,John Anderson,Washington,39
+1906,National League,chancfr01,Frank Chance,Chicago,57
+1907,American League,cobbty01,Ty Cobb,Detroit,49
+1907,National League,wagneho01,Honus Wagner,Pittsburgh,61
+1908,American League,doughpa01,Patsy Dougherty,Chicago,47
+1908,National League,wagneho01,Honus Wagner,Pittsburgh,53
+1909,American League,cobbty01,Ty Cobb,Detroit,76
+1909,National League,beschbo01,Bob Bescher,Cincinnati,54
+1910,American League,collied01,Eddie Collins,Philadelphia,81
+1910,National League,beschbo01,Bob Bescher,Cincinnati,70
+1911,American League,cobbty01,Ty Cobb,Detroit,83
+1911,National League,beschbo01,Bob Bescher,Cincinnati,80
+1912,American League,milancl01,Clyde Milan,Washington,88
+1912,National League,beschbo01,Bob Bescher,Cincinnati,67
+1913,American League,milancl01,Clyde Milan,Washington,75
+1913,National League,careyma01,Max Carey,Pittsburgh,61
+1914,American League,maisefr01,Fritz Maisel,New York,74
+1914,National League,burnsge01,George Burns,New York,62
+1915,American League,cobbty01,Ty Cobb,Detroit,96
+1915,National League,careyma01,Max Carey,Pittsburgh,36
+1916,American League,cobbty01,Ty Cobb,Detroit,68
+1916,National League,careyma01,Max Carey,Pittsburgh,63
+1917,American League,cobbty01,Ty Cobb,Detroit,55
+1917,National League,careyma01,Max Carey,Pittsburgh,46
+1918,American League,sislege01,George Sisler,St. Louis,45
+1918,National League,careyma01,Max Carey,Pittsburgh,58
+1919,American League,collied01,Eddie Collins,Chicago,33
+1919,National League,burnsge01,George Burns,New York,40
+1920,American League,ricesa01,Sam Rice,Washington,63
+1920,National League,careyma01,Max Carey,Pittsburgh,52
+1921,American League,sislege01,George Sisler,St. Louis,35
+1921,National League,friscfr01,Frankie Frisch,New York,49
+1922,American League,sislege01,George Sisler,St. Louis,51
+1922,National League,careyma01,Max Carey,Pittsburgh,51
+1923,American League,collied01,Eddie Collins,Chicago,48
+1923,National League,careyma01,Max Carey,Pittsburgh,51
+1924,American League,collied01,Eddie Collins,Chicago,42
+1924,National League,careyma01,Max Carey,Pittsburgh,49
+1925,American League,mostijo01,Johnny Mostil,Chicago,43
+1925,National League,careyma01,Max Carey,Pittsburgh,46
+1926,American League,mostijo01,Johnny Mostil,Chicago,35
+1926,National League,cuyleki01,Kiki Cuyler,Pittsburgh,35
+1927,American League,sislege01,George Sisler,St. Louis,27
+1927,National League,friscfr01,Frankie Frisch,St. Louis,48
+1928,American League,myerbu01,Buddy Myer,Boston,30
+1928,National League,cuyleki01,Kiki Cuyler,Chicago,37
+1929,American League,gehrich01,Charlie Gehringer,Detroit,27
+1929,National League,cuyleki01,Kiki Cuyler,Chicago,43
+1930,American League,mcmanma01,Marty McManus,Detroit,23
+1930,National League,cuyleki01,Kiki Cuyler,Chicago,37
+1931,American League,chapmbe01,Ben Chapman,New York,61
+1931,National League,friscfr01,Frankie Frisch,St. Louis,28
+1932,American League,chapmbe01,Ben Chapman,New York,38
+1932,National League,kleinch01,Chuck Klein,Philadelphia,20
+1933,American League,chapmbe01,Ben Chapman,New York,27
+1933,National League,martipe01,Pepper Martin,St. Louis,26
+1934,American League,werbebi01,Billy Werber,Boston,40
+1934,National League,martipe01,Pepper Martin,St. Louis,23
+1935,American League,werbebi01,Billy Werber,Boston,29
+1935,National League,galanau01,Augie Galan,Chicago,22
+1936,American League,laryly01,Lyn Lary,St. Louis,37
+1936,National League,martipe01,Pepper Martin,St. Louis,23
+1937,American League,chapmbe01,Ben Chapman,Boston,35
+1937,National League,galanau01,Augie Galan,Chicago,23
+1938,American League,crosefr01,Frankie Crosetti,New York,27
+1938,National League,hackst01,Stan Hack,Chicago,16
+1939,American League,casege01,George Case,Washington,51
+1939,National League,hackst01,Stan Hack,Chicago,17
+1940,American League,casege01,George Case,Washington,35
+1940,National League,freylo01,Lonny Frey,Cincinnati,22
+1941,American League,casege01,George Case,Washington,33
+1941,National League,murtada01,Danny Murtaugh,Philadelphia,18
+1942,American League,casege01,George Case,Washington,44
+1942,National League,reisepe01,Pete Reiser,Brooklyn,20
+1943,American League,casege01,George Case,Washington,61
+1943,National League,vaughar01,Arky Vaughan,Brooklyn,20
+1944,American League,stirnsn01,Snuffy Stirnweiss,New York,55
+1944,National League,barrejo01,Johnny Barrett,Pittsburgh,28
+1945,American League,stirnsn01,Snuffy Stirnweiss,New York,33
+1945,National League,schoere01,Red Schoendienst,St. Louis,26
+1946,American League,casege01,George Case,Cleveland,28
+1946,National League,reisepe01,Pete Reiser,Brooklyn,34
+1947,American League,dillibo01,Bob Dillinger,St. Louis,34
+1947,National League,robinja02,Jackie Robinson,Brooklyn,29
+1948,American League,dillibo01,Bob Dillinger,St. Louis,28
+1948,National League,ashburi01,Richie Ashburn,Philadelphia,32
+1949,American League,dillibo01,Bob Dillinger,St. Louis,20
+1949,National League,robinja02,Jackie Robinson,Brooklyn,37
+1950,American League,dimagdo01,Dom DiMaggio,Boston,15
+1950,National League,jethrsa01,Sam Jethroe,Boston,35
+1951,American League,minosmi01,Minnie Minoso,Chicago,31
+1951,National League,jethrsa01,Sam Jethroe,Boston,35
+1952,American League,minosmi01,Minnie Minoso,Chicago,22
+1952,National League,reesepe01,Pee Wee Reese,Brooklyn,30
+1953,American League,minosmi01,Minnie Minoso,Chicago,25
+1953,National League,brutobi01,Bill Bruton,Milwaukee,26
+1954,American League,jenseja01,Jackie Jensen,Boston,22
+1954,National League,brutobi01,Bill Bruton,Milwaukee,34
+1955,American League,riverji01,Jim Rivera,Chicago,25
+1955,National League,brutobi01,Bill Bruton,Milwaukee,25
+1956,American League,aparilu01,Luis Aparicio,Chicago,21
+1956,National League,mayswi01,Willie Mays,New York,40
+1957,American League,aparilu01,Luis Aparicio,Chicago,28
+1957,National League,mayswi01,Willie Mays,New York,38
+1958,American League,aparilu01,Luis Aparicio,Chicago,29
+1958,National League,mayswi01,Willie Mays,San Francisco,31
+1959,American League,aparilu01,Luis Aparicio,Chicago,56
+1959,National League,mayswi01,Willie Mays,San Francisco,27
+1960,American League,aparilu01,Luis Aparicio,Chicago,51
+1960,National League,willsma01,Maury Wills,Los Angeles,50
+1961,American League,aparilu01,Luis Aparicio,Chicago,53
+1961,National League,willsma01,Maury Wills,Los Angeles,35
+1962,American League,aparilu01,Luis Aparicio,Chicago,31
+1962,National League,willsma01,Maury Wills,Los Angeles,104
+1963,American League,aparilu01,Luis Aparicio,Baltimore,40
+1963,National League,willsma01,Maury Wills,Los Angeles,40
+1964,American League,aparilu01,Luis Aparicio,Baltimore,57
+1964,National League,willsma01,Maury Wills,Los Angeles,53
+1965,American League,campabe01,Bert Campaneris,Kansas City,51
+1965,National League,willsma01,Maury Wills,Los Angeles,94
+1966,American League,campabe01,Bert Campaneris,Kansas City,52
+1966,National League,brocklo01,Lou Brock,St. Louis,74
+1967,American League,campabe01,Bert Campaneris,Kansas City,55
+1967,National League,brocklo01,Lou Brock,St. Louis,52
+1968,American League,campabe01,Bert Campaneris,Oakland,62
+1968,National League,brocklo01,Lou Brock,St. Louis,62
+1969,American League,harpeto01,Tommy Harper,Seattle,73
+1969,National League,brocklo01,Lou Brock,St. Louis,53
+1970,American League,campabe01,Bert Campaneris,Oakland,42
+1970,National League,tolanbo01,Bobby Tolan,Cincinnati,57
+1971,American League,otisam01,Amos Otis,Kansas City,52
+1971,National League,brocklo01,Lou Brock,St. Louis,64
+1972,American League,campabe01,Bert Campaneris,Oakland,52
+1972,National League,brocklo01,Lou Brock,St. Louis,63
+1973,American League,harpeto01,Tommy Harper,Boston,54
+1973,National League,brocklo01,Lou Brock,St. Louis,70
+1974,American League,northbi01,Bill North,Oakland,54
+1974,National League,brocklo01,Lou Brock,St. Louis,118
+1975,American League,rivermi01,Mickey Rivers,California,70
+1975,National League,lopesda01,Davey Lopes,Los Angeles,77
+1976,American League,northbi01,Bill North,Oakland,75
+1976,National League,lopesda01,Davey Lopes,Los Angeles,63
+1977,American League,patekfr01,Freddie Patek,Kansas City,53
+1977,National League,taverfr01,Frank Taveras,Pittsburgh,70
+1978,American League,lefloro01,Ron LeFlore,Detroit,68
+1978,National League,morenom01,Omar Moreno,Pittsburgh,71
+1979,American League,wilsowi02,Willie Wilson,Kansas City,83
+1979,National League,morenom01,Omar Moreno,Pittsburgh,77
+1980,American League,henderi01,Rickey Henderson,Oakland,100
+1980,National League,lefloro01,Ron LeFlore,Montreal,97
+1981,American League,henderi01,Rickey Henderson,Oakland,56
+1981,National League,raineti01,Tim Raines,Montreal,71
+1982,American League,henderi01,Rickey Henderson,Oakland,130
+1982,National League,raineti01,Tim Raines,Montreal,78
+1983,American League,henderi01,Rickey Henderson,Oakland,108
+1983,National League,raineti01,Tim Raines,Montreal,90
+1984,American League,henderi01,Rickey Henderson,Oakland,66
+1984,National League,raineti01,Tim Raines,Montreal,75
+1985,American League,henderi01,Rickey Henderson,New York,80
+1985,National League,colemvi01,Vince Coleman,St. Louis,110
+1986,American League,henderi01,Rickey Henderson,New York,87
+1986,National League,colemvi01,Vince Coleman,St. Louis,107
+1987,American League,reynoha01,Harold Reynolds,Seattle,60
+1987,National League,colemvi01,Vince Coleman,St. Louis,109
+1988,American League,henderi01,Rickey Henderson,New York,93
+1988,National League,colemvi01,Vince Coleman,St. Louis,81
+1989,American League,henderi01,Rickey Henderson,New York,77
+1989,National League,colemvi01,Vince Coleman,St. Louis,65
+1990,American League,henderi01,Rickey Henderson,Oakland,65
+1990,National League,colemvi01,Vince Coleman,St. Louis,77
+1991,American League,henderi01,Rickey Henderson,Oakland,58
+1991,National League,grissma02,Marquis Grissom,Montreal,76
+1992,American League,loftoke01,Kenny Lofton,Cleveland,66
+1992,National League,grissma02,Marquis Grissom,Montreal,78
+1993,American League,loftoke01,Kenny Lofton,Cleveland,70
+1993,National League,carrch02,Chuck Carr,Florida,58
+1994,American League,loftoke01,Kenny Lofton,Cleveland,60
+1994,National League,biggicr01,Craig Biggio,Houston,39
+1995,American League,loftoke01,Kenny Lofton,Cleveland,54
+1995,National League,verasqu01,Quilvio Veras,Florida,56
+1996,American League,loftoke01,Kenny Lofton,Cleveland,75
+1996,National League,younger01,Eric Young,Colorado,53
+1997,American League,huntebr02,Brian Hunter,Detroit,74
+1997,National League,womacto01,Tony Womack,Pittsburgh,60
+1998,American League,henderi01,Rickey Henderson,Oakland,66
+1998,National League,womacto01,Tony Womack,Pittsburgh,58
+1999,American League,huntebr02,Brian Hunter,Detroit,44
+1999,National League,womacto01,Tony Womack,Arizona,72
+2000,American League,damonjo01,Johnny Damon,Kansas City,46
+2000,National League,castilu01,Luis Castillo,Florida,62
+2001,American League,suzukic01,Ichiro Suzuki,Seattle,56
+2001,National League,pierrju01,Juan Pierre,Colorado,46
+2002,American League,soriaal01,Alfonso Soriano,New York,41
+2002,National League,castilu01,Luis Castillo,Florida,48
+2003,American League,crawfca02,Carl Crawford,Tampa Bay,55
+2003,National League,pierrju01,Juan Pierre,Florida,65
+2004,American League,crawfca02,Carl Crawford,Tampa Bay,59
+2004,National League,podsesc01,Scott Podsednik,Milwaukee,70
+2005,American League,figgich01,Chone Figgins,Los Angeles,62
+2005,National League,reyesjo01,Jose Reyes,New York,60
+2006,American League,crawfca02,Carl Crawford,Tampa Bay,58
+2006,National League,reyesjo01,Jose Reyes,New York,64
+2007,American League,crawfca02,Carl Crawford,Tampa Bay,50
+2007,National League,reyesjo01,Jose Reyes,New York,78
+2008,American League,ellsbja01,Jacoby Ellsbury,Boston,50
+2008,National League,taverwi01,Willy Taveras,Colorado,68
+2009,American League,ellsbja01,Jacoby Ellsbury,Boston,70
+2009,National League,bournmi01,Michael Bourn,Houston,61
+2010,American League,pierrju01,Juan Pierre,Chicago,68
+2010,National League,bournmi01,Michael Bourn,Houston,52
+2011,American League,crispco01,Coco Crisp,Oakland,49
+2011,National League,bournmi01,Michael Bourn,Atlanta,61
+2012,American League,troutmi01,Mike Trout,Los Angeles,49
+2012,National League,cabreev01,Everth Cabrera,San Diego,44
+2013,American League,ellsbja01,Jacoby Ellsbury,Boston,52
+2013,National League,younger03,Eric Young Jr.,Colorado,46
+2014,American League,altuvjo01,Jose Altuve,Houston,56
+2014,National League,gordode01,Dee Strange-Gordon,Los Angeles,64
+2015,American League,altuvjo01,Jose Altuve,Houston,38
+2015,National League,gordode01,Dee Strange-Gordon,Miami,58
+2016,American League,davisra01,Rajai Davis,Cleveland,43
+2016,National League,villajo01,Jonathan Villar,Milwaukee,62
+2017,American League,merriwh01,Whit Merrifield,Kansas City,34
+2017,National League,gordode01,Dee Strange-Gordon,Miami,60
+2018,American League,merriwh01,Whit Merrifield,Kansas City,45
+2018,National League,turnetr01,Trea Turner,Washington,43
+2019,American League,smithma05,Mallex Smith,Seattle,46
+2019,National League,acunaro01,Ronald Acuña Jr.,Atlanta,37
+2020,American League,mondera02,Adalberto Mondesi,Kansas City,24
+2020,National League,storytr01,Trevor Story,Colorado,15
+2021,American League,merriwh01,Whit Merrifield,Kansas City,40
+2021,National League,turnetr01,Trea Turner,Los Angeles,32
+2022,American League,mateojo01,Jorge Mateo,Baltimore,35
+2022,National League,bertijo01,Jon Berti,Miami,41
+2023,American League,ruizes01,Esteury Ruiz,Oakland,67
+2023,National League,acunaro01,Ronald Acuña Jr.,Atlanta,73
+2024,American League,cabaljo01,José Caballero,Tampa Bay,44
+2024,National League,delacel01,Elly De La Cruz,Cincinnati,67
+2025,American League,cabaljo01,José Caballero,New York,49
+2025,National League,cruzon01,Oneil Cruz,Pittsburgh,38
+Year,American League,,American League,Team(s),Stolen Bases
+Year,National League,,National League,Team(s),Stolen Bases

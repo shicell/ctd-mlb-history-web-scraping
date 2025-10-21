@@ -1,0 +1,1861 @@
+Player ID,Team,Stolen Bases (SB),Caught Stealing (CS),Stolen Bases Percentage
+brocklo01,Team,SB,CS,SB%
+brocklo01,1961 Cubs,0,0,.000
+brocklo01,1962 Cubs,16,7,.696
+brocklo01,1963 Cubs,24,12,.667
+brocklo01,1964 Cubs,10,3,.769
+brocklo01,1964 Cardinals,33,15,.688
+brocklo01,1965 Cardinals,63,27,.700
+brocklo01,1966 Cardinals,74,18,.804
+brocklo01,1967 Cardinals,52,18,.743
+brocklo01,1968 Cardinals,62,12,.838
+brocklo01,1969 Cardinals,53,14,.791
+brocklo01,1970 Cardinals,51,15,.773
+brocklo01,1971 Cardinals,64,19,.771
+brocklo01,1972 Cardinals,63,18,.778
+brocklo01,1973 Cardinals,70,20,.778
+brocklo01,1974 Cardinals,118,33,.781
+brocklo01,1975 Cardinals,56,16,.778
+brocklo01,1976 Cardinals,56,19,.747
+brocklo01,1977 Cardinals,35,24,.593
+brocklo01,1978 Cardinals,17,5,.773
+brocklo01,1979 Cardinals,21,12,.636
+brocklo01,Career,SB,CS,SB%
+brocklo01,19 Years,938,307,.753
+hoydu01,Team,SB,CS,SB%
+hoydu01,1888 Senators,82,-,-
+hoydu01,1889 Senators,35,-,-
+hoydu01,1890 Bisons,39,-,-
+hoydu01,1891 Browns,59,-,-
+hoydu01,1892 Senators,60,-,-
+hoydu01,1893 Senators,48,-,-
+hoydu01,1894 Reds,27,-,-
+hoydu01,1895 Reds,50,-,-
+hoydu01,1896 Reds,50,-,-
+hoydu01,1897 Reds,37,-,-
+hoydu01,1898 Colonels,37,-,-
+hoydu01,1899 Colonels,32,-,-
+hoydu01,1901 White Sox,27,-,-
+hoydu01,1902 Reds,11,-,-
+hoydu01,Career,SB,CS,SB%
+hoydu01,14 Years,594,-,-
+anderjo01,Team,SB,CS,SB%
+anderjo01,1894 Bridegrooms,7,-,-
+anderjo01,1895 Bridegrooms,24,-,-
+anderjo01,1896 Bridegrooms,37,-,-
+anderjo01,1897 Bridegrooms,29,-,-
+anderjo01,1898 Bridegrooms,2,-,-
+anderjo01,1898 Senators,18,-,-
+anderjo01,1899 Superbas,25,-,-
+anderjo01,1901 Brewers,35,-,-
+anderjo01,1902 Browns,15,-,-
+anderjo01,1903 Browns,16,-,-
+anderjo01,1904 Highlanders,20,-,-
+anderjo01,1905 Highlanders,9,-,-
+anderjo01,1905 Senators,22,-,-
+anderjo01,1906 Senators,39,-,-
+anderjo01,1907 Senators,19,-,-
+anderjo01,1908 White Sox,21,-,-
+anderjo01,Career,SB,CS,SB%
+anderjo01,14 Years,338,-,-
+stirnsn01,Team,SB,CS,SB%
+stirnsn01,1943 Yankees,11,9,.550
+stirnsn01,1944 Yankees,55,11,.833
+stirnsn01,1945 Yankees,33,17,.660
+stirnsn01,1946 Yankees,18,6,.750
+stirnsn01,1947 Yankees,5,3,.625
+stirnsn01,1948 Yankees,5,4,.556
+stirnsn01,1949 Yankees,3,2,.600
+stirnsn01,1950 Yankees,0,0,.000
+stirnsn01,1950 Browns,3,3,.500
+stirnsn01,1951 Indians,1,0,1.000
+stirnsn01,1952 Indians,0,0,.000
+stirnsn01,Career,SB,CS,SB%
+stirnsn01,10 Years,134,55,.709
+huntebr02,Team,SB,CS,SB%
+huntebr02,1994 Astros,2,1,.667
+huntebr02,1995 Astros,24,7,.774
+huntebr02,1996 Astros,35,9,.795
+huntebr02,1997 Tigers,74,18,.804
+huntebr02,1998 Tigers,42,12,.778
+huntebr02,1999 Tigers,0,3,.000
+huntebr02,1999 Mariners,44,5,.898
+huntebr02,2000 Rockies,15,3,.833
+huntebr02,2000 Reds,5,0,1.000
+huntebr02,2001 Phillies,14,3,.824
+huntebr02,2002 Astros,5,0,1.000
+huntebr02,2003 Astros,0,0,.000
+huntebr02,Career,SB,CS,SB%
+huntebr02,10 Years,260,61,.810
+ricesa01,Team,SB,CS,SB%
+ricesa01,1915 Senators,0,0,.000
+ricesa01,1916 Senators,4,0,1.000
+ricesa01,1917 Senators,35,-,-
+ricesa01,1918 Senators,1,-,-
+ricesa01,1919 Senators,26,-,-
+ricesa01,1920 Senators,63,30,.677
+ricesa01,1921 Senators,26,12,.684
+ricesa01,1922 Senators,20,9,.690
+ricesa01,1923 Senators,20,8,.714
+ricesa01,1924 Senators,24,13,.649
+ricesa01,1925 Senators,26,11,.703
+ricesa01,1926 Senators,24,23,.511
+ricesa01,1927 Senators,19,6,.760
+ricesa01,1928 Senators,16,3,.842
+ricesa01,1929 Senators,16,8,.667
+ricesa01,1930 Senators,13,8,.619
+ricesa01,1931 Senators,6,5,.545
+ricesa01,1932 Senators,7,4,.636
+ricesa01,1933 Senators,0,2,.000
+ricesa01,1934 Indians,5,1,.833
+ricesa01,Career,SB,CS,SB%
+ricesa01,20 Years,351,143,.711
+soriaal01,Team,SB,CS,SB%
+soriaal01,1999 Yankees,0,1,.000
+soriaal01,2000 Yankees,2,0,1.000
+soriaal01,2001 Yankees,43,14,.754
+soriaal01,2002 Yankees,41,13,.759
+soriaal01,2003 Yankees,35,8,.814
+soriaal01,2004 Rangers,18,5,.783
+soriaal01,2005 Rangers,30,2,.938
+soriaal01,2006 Nationals,41,17,.707
+soriaal01,2007 Cubs,19,6,.760
+soriaal01,2008 Cubs,19,3,.864
+soriaal01,2009 Cubs,9,2,.818
+soriaal01,2010 Cubs,5,1,.833
+soriaal01,2011 Cubs,2,1,.667
+soriaal01,2012 Cubs,6,2,.750
+soriaal01,2013 Cubs,10,5,.667
+soriaal01,2013 Yankees,8,4,.667
+soriaal01,2014 Yankees,1,0,1.000
+soriaal01,Career,SB,CS,SB%
+soriaal01,16 Years,289,84,.775
+vaughar01,Team,SB,CS,SB%
+vaughar01,1932 Pirates,10,10,.500
+vaughar01,1933 Pirates,3,11,.214
+vaughar01,1934 Pirates,10,4,.714
+vaughar01,1935 Pirates,4,7,.364
+vaughar01,1936 Pirates,6,9,.400
+vaughar01,1937 Pirates,7,8,.467
+vaughar01,1938 Pirates,14,8,.636
+vaughar01,1939 Pirates,12,5,.706
+vaughar01,1940 Pirates,12,10,.545
+vaughar01,1941 Pirates,8,3,.727
+vaughar01,1942 Dodgers,8,2,.800
+vaughar01,1943 Dodgers,20,11,.645
+vaughar01,1947 Dodgers,4,1,.800
+vaughar01,1948 Dodgers,0,1,.000
+vaughar01,Career,SB,CS,SB%
+vaughar01,14 Years,118,90,.567
+colemvi01,Team,SB,CS,SB%
+colemvi01,1985 Cardinals,110,25,.815
+colemvi01,1986 Cardinals,107,14,.884
+colemvi01,1987 Cardinals,109,22,.832
+colemvi01,1988 Cardinals,81,27,.750
+colemvi01,1989 Cardinals,65,10,.867
+colemvi01,1990 Cardinals,77,17,.819
+colemvi01,1991 Mets,37,14,.725
+colemvi01,1992 Mets,24,9,.727
+colemvi01,1993 Mets,38,13,.745
+colemvi01,1994 Royals,50,8,.862
+colemvi01,1995 Royals,26,9,.743
+colemvi01,1995 Mariners,16,7,.696
+colemvi01,1996 Reds,12,2,.857
+colemvi01,1997 Tigers,0,0,.000
+colemvi01,Career,SB,CS,SB%
+colemvi01,13 Years,752,177,.809
+loftoke01,Team,SB,CS,SB%
+loftoke01,1991 Astros,2,1,.667
+loftoke01,1992 Indians,66,12,.846
+loftoke01,1993 Indians,70,14,.833
+loftoke01,1994 Indians,60,12,.833
+loftoke01,1995 Indians,54,15,.783
+loftoke01,1996 Indians,75,17,.815
+loftoke01,1997 Braves,27,20,.574
+loftoke01,1998 Indians,54,10,.844
+loftoke01,1999 Indians,25,6,.806
+loftoke01,2000 Indians,30,7,.811
+loftoke01,2001 Indians,16,8,.667
+loftoke01,2002 White Sox,22,8,.733
+loftoke01,2002 Giants,7,3,.700
+loftoke01,2003 Pirates,18,5,.783
+loftoke01,2003 Cubs,12,4,.750
+loftoke01,2004 Yankees,7,3,.700
+loftoke01,2005 Phillies,22,3,.880
+loftoke01,2006 Dodgers,32,5,.865
+loftoke01,2007 Rangers,21,4,.840
+loftoke01,2007 Indians,2,3,.400
+loftoke01,Career,SB,CS,SB%
+loftoke01,17 Years,622,160,.795
+galanau01,Team,SB,CS,SB%
+galanau01,1934 Cubs,4,1,.800
+galanau01,1935 Cubs,22,15,.595
+galanau01,1936 Cubs,16,12,.571
+galanau01,1937 Cubs,23,19,.548
+galanau01,1938 Cubs,8,6,.571
+galanau01,1939 Cubs,8,4,.667
+galanau01,1940 Cubs,9,2,.818
+galanau01,1941 Cubs,0,0,.000
+galanau01,1941 Dodgers,0,0,.000
+galanau01,1942 Dodgers,2,8,.200
+galanau01,1943 Dodgers,6,12,.333
+galanau01,1944 Dodgers,4,6,.400
+galanau01,1945 Dodgers,13,14,.481
+galanau01,1946 Dodgers,8,2,.800
+galanau01,1947 Reds,0,1,.000
+galanau01,1948 Reds,0,2,.000
+galanau01,1949 Giants,0,0,.000
+galanau01,1949 Athletics,0,0,.000
+galanau01,Career,SB,CS,SB%
+galanau01,16 Years,123,104,.542
+hartsto01,Team,SB,CS,SB%
+hartsto01,1898 Colonels,2,-,-
+hartsto01,1899 Colonels,1,-,-
+hartsto01,1900 Reds,7,-,-
+hartsto01,1901 Orphans,41,-,-
+hartsto01,1902 Athletics,47,-,-
+hartsto01,1903 Athletics,13,-,-
+hartsto01,1904 Athletics,19,-,-
+hartsto01,1905 Athletics,37,-,-
+hartsto01,1906 Athletics,31,-,-
+hartsto01,1907 Athletics,20,-,-
+hartsto01,1908 Athletics,15,-,-
+hartsto01,1909 Athletics,3,-,-
+hartsto01,1910 Athletics,11,-,-
+hartsto01,1911 Athletics,0,-,-
+hartsto01,Career,SB,CS,SB%
+hartsto01,14 Years,247,-,-
+hackst01,Team,SB,CS,SB%
+hackst01,1932 Cubs,5,3,.625
+hackst01,1933 Cubs,4,1,.800
+hackst01,1934 Cubs,11,7,.611
+hackst01,1935 Cubs,14,7,.667
+hackst01,1936 Cubs,17,18,.486
+hackst01,1937 Cubs,16,19,.457
+hackst01,1938 Cubs,16,25,.390
+hackst01,1939 Cubs,17,18,.486
+hackst01,1940 Cubs,21,22,.488
+hackst01,1941 Cubs,10,8,.556
+hackst01,1942 Cubs,9,4,.692
+hackst01,1943 Cubs,5,6,.455
+hackst01,1944 Cubs,5,9,.357
+hackst01,1945 Cubs,12,6,.667
+hackst01,1946 Cubs,3,6,.333
+hackst01,1947 Cubs,0,4,.000
+hackst01,Career,SB,CS,SB%
+hackst01,16 Years,165,163,.503
+bayha01,Team,SB,CS,SB%
+bayha01,1901 Reds,4,-,-
+bayha01,1902 Reds,0,-,-
+bayha01,1902 Blues,22,-,-
+bayha01,1903 Blues,45,-,-
+bayha01,1904 Blues,38,-,-
+bayha01,1905 Naps,36,-,-
+bayha01,1906 Naps,17,-,-
+bayha01,1907 Naps,7,-,-
+bayha01,1908 Naps,0,-,-
+bayha01,Career,SB,CS,SB%
+bayha01,8 Years,169,-,-
+harpeto01,Team,SB,CS,SB%
+harpeto01,1962 Reds,1,0,1.000
+harpeto01,1963 Reds,12,1,.923
+harpeto01,1964 Reds,24,3,.889
+harpeto01,1965 Reds,35,6,.854
+harpeto01,1966 Reds,29,10,.744
+harpeto01,1967 Reds,23,8,.742
+harpeto01,1968 Indians,11,7,.611
+harpeto01,1969 Pilots,73,18,.802
+harpeto01,1970 Brewers,38,16,.704
+harpeto01,1971 Brewers,25,3,.893
+harpeto01,1972 Red Sox,25,7,.781
+harpeto01,1973 Red Sox,54,14,.794
+harpeto01,1974 Red Sox,28,12,.700
+harpeto01,1975 Angels,19,8,.704
+harpeto01,1975 Athletics,7,0,1.000
+harpeto01,1976 Orioles,4,3,.571
+harpeto01,Career,SB,CS,SB%
+harpeto01,15 Years,408,116,.779
+campabe01,Team,SB,CS,SB%
+campabe01,1964 Athletics,10,2,.833
+campabe01,1965 Athletics,51,19,.729
+campabe01,1966 Athletics,52,10,.839
+campabe01,1967 Athletics,55,16,.775
+campabe01,1968 Athletics,62,22,.738
+campabe01,1969 Athletics,62,8,.886
+campabe01,1970 Athletics,42,10,.808
+campabe01,1971 Athletics,34,7,.829
+campabe01,1972 Athletics,52,14,.788
+campabe01,1973 Athletics,34,10,.773
+campabe01,1974 Athletics,34,15,.694
+campabe01,1975 Athletics,24,12,.667
+campabe01,1976 Athletics,54,12,.818
+campabe01,1977 Rangers,27,20,.574
+campabe01,1978 Rangers,22,4,.846
+campabe01,1979 Rangers,1,0,1.000
+campabe01,1979 Angels,12,4,.750
+campabe01,1980 Angels,10,5,.667
+campabe01,1981 Angels,5,2,.714
+campabe01,1983 Yankees,6,7,.462
+campabe01,Career,SB,CS,SB%
+campabe01,19 Years,649,199,.765
+sheckji01,Team,SB,CS,SB%
+sheckji01,1897 Bridegrooms,5,-,-
+sheckji01,1898 Bridegrooms,8,-,-
+sheckji01,1899 Orioles,77,-,-
+sheckji01,1900 Superbas,30,-,-
+sheckji01,1901 Superbas,35,-,-
+sheckji01,1902 Orioles,2,-,-
+sheckji01,1902 Superbas,23,-,-
+sheckji01,1903 Superbas,67,-,-
+sheckji01,1904 Superbas,21,-,-
+sheckji01,1905 Superbas,23,-,-
+sheckji01,1906 Cubs,30,-,-
+sheckji01,1907 Cubs,31,-,-
+sheckji01,1908 Cubs,18,-,-
+sheckji01,1909 Cubs,15,-,-
+sheckji01,1910 Cubs,22,-,-
+sheckji01,1911 Cubs,32,-,-
+sheckji01,1912 Cubs,15,-,-
+sheckji01,1913 Cardinals,5,-,-
+sheckji01,1913 Reds,6,-,-
+sheckji01,Career,SB,CS,SB%
+sheckji01,17 Years,465,-,-
+grissma02,Team,SB,CS,SB%
+grissma02,1989 Expos,1,0,1.000
+grissma02,1990 Expos,22,2,.917
+grissma02,1991 Expos,76,17,.817
+grissma02,1992 Expos,78,13,.857
+grissma02,1993 Expos,53,10,.841
+grissma02,1994 Expos,36,6,.857
+grissma02,1995 Braves,29,9,.763
+grissma02,1996 Braves,28,11,.718
+grissma02,1997 Indians,22,13,.629
+grissma02,1998 Brewers,13,8,.619
+grissma02,1999 Brewers,24,6,.800
+grissma02,2000 Brewers,20,10,.667
+grissma02,2001 Dodgers,7,5,.583
+grissma02,2002 Dodgers,5,1,.833
+grissma02,2003 Giants,11,3,.786
+grissma02,2004 Giants,3,1,.750
+grissma02,2005 Giants,1,1,.500
+grissma02,Career,SB,CS,SB%
+grissma02,17 Years,429,116,.787
+henderi01,Team,SB,CS,SB%
+henderi01,1979 Athletics,33,11,.750
+henderi01,1980 Athletics,100,26,.794
+henderi01,1981 Athletics,56,22,.718
+henderi01,1982 Athletics,130,42,.756
+henderi01,1983 Athletics,108,19,.850
+henderi01,1984 Athletics,66,18,.786
+henderi01,1985 Yankees,80,10,.889
+henderi01,1986 Yankees,87,18,.829
+henderi01,1987 Yankees,41,8,.837
+henderi01,1988 Yankees,93,13,.877
+henderi01,1989 Yankees,25,8,.758
+henderi01,1989 Athletics,52,6,.897
+henderi01,1990 Athletics,65,10,.867
+henderi01,1991 Athletics,58,18,.763
+henderi01,1992 Athletics,48,11,.814
+henderi01,1993 Athletics,31,6,.838
+henderi01,1993 Blue Jays,22,2,.917
+henderi01,1994 Athletics,22,7,.759
+henderi01,1995 Athletics,32,10,.762
+henderi01,1996 Padres,37,15,.712
+henderi01,1997 Padres,29,4,.879
+henderi01,1997 Angels,16,4,.800
+henderi01,1998 Athletics,66,13,.835
+henderi01,1999 Mets,37,14,.725
+henderi01,2000 Mets,5,2,.714
+henderi01,2000 Mariners,31,9,.775
+henderi01,2001 Padres,25,7,.781
+henderi01,2002 Red Sox,8,2,.800
+henderi01,2003 Dodgers,3,0,1.000
+henderi01,Career,SB,CS,SB%
+henderi01,25 Years,"1,406",335,.808
+troutmi01,Team,SB,CS,SB%
+troutmi01,2011 Angels,4,0,1.000
+troutmi01,2012 Angels,49,5,.907
+troutmi01,2013 Angels,33,7,.825
+troutmi01,2014 Angels,16,2,.889
+troutmi01,2015 Angels,11,7,.611
+troutmi01,2016 Angels,30,7,.811
+troutmi01,2017 Angels,22,4,.846
+troutmi01,2018 Angels,24,2,.923
+troutmi01,2019 Angels,11,2,.846
+troutmi01,2020 Angels,1,1,.500
+troutmi01,2021 Angels,2,0,1.000
+troutmi01,2022 Angels,1,0,1.000
+troutmi01,2023 Angels,2,0,1.000
+troutmi01,2024 Angels,6,1,.857
+troutmi01,2025 Angels,2,0,1.000
+troutmi01,Career,SB,CS,SB%
+troutmi01,15 Years,214,38,.849
+damonjo01,Team,SB,CS,SB%
+damonjo01,1995 Royals,7,0,1.000
+damonjo01,1996 Royals,25,5,.833
+damonjo01,1997 Royals,16,10,.615
+damonjo01,1998 Royals,26,12,.684
+damonjo01,1999 Royals,36,6,.857
+damonjo01,2000 Royals,46,9,.836
+damonjo01,2001 Athletics,27,12,.692
+damonjo01,2002 Red Sox,31,6,.838
+damonjo01,2003 Red Sox,30,6,.833
+damonjo01,2004 Red Sox,19,8,.704
+damonjo01,2005 Red Sox,18,1,.947
+damonjo01,2006 Yankees,25,10,.714
+damonjo01,2007 Yankees,27,3,.900
+damonjo01,2008 Yankees,29,8,.784
+damonjo01,2009 Yankees,12,0,1.000
+damonjo01,2010 Tigers,11,1,.917
+damonjo01,2011 Rays,19,6,.760
+damonjo01,2012 Indians,4,0,1.000
+damonjo01,Career,SB,CS,SB%
+damonjo01,18 Years,408,103,.798
+cabaljo01,Team,SB,CS,SB%
+cabaljo01,2023 Mariners,26,3,.897
+cabaljo01,2024 Rays,44,16,.733
+cabaljo01,2025 Rays,34,8,.810
+cabaljo01,2025 Yankees,15,3,.833
+cabaljo01,Career,SB,CS,SB%
+cabaljo01,3 Years,119,30,.799
+chapmbe01,Team,SB,CS,SB%
+chapmbe01,1930 Yankees,14,6,.700
+chapmbe01,1931 Yankees,61,23,.726
+chapmbe01,1932 Yankees,38,18,.679
+chapmbe01,1933 Yankees,27,18,.600
+chapmbe01,1934 Yankees,26,16,.619
+chapmbe01,1935 Yankees,17,10,.630
+chapmbe01,1936 Yankees,1,2,.333
+chapmbe01,1936 Senators,19,7,.731
+chapmbe01,1937 Senators,8,0,1.000
+chapmbe01,1937 Red Sox,27,12,.692
+chapmbe01,1938 Red Sox,13,6,.684
+chapmbe01,1939 Indians,18,6,.750
+chapmbe01,1940 Indians,13,7,.650
+chapmbe01,1941 Senators,2,2,.500
+chapmbe01,1941 White Sox,2,2,.500
+chapmbe01,1944 Dodgers,1,0,1.000
+chapmbe01,1945 Dodgers,0,0,.000
+chapmbe01,1945 Phillies,0,0,.000
+chapmbe01,1946 Phillies,0,0,.000
+chapmbe01,Career,SB,CS,SB%
+chapmbe01,15 Years,287,135,.680
+aparilu01,Team,SB,CS,SB%
+aparilu01,1956 White Sox,21,4,.840
+aparilu01,1957 White Sox,28,8,.778
+aparilu01,1958 White Sox,29,6,.829
+aparilu01,1959 White Sox,56,13,.812
+aparilu01,1960 White Sox,51,8,.864
+aparilu01,1961 White Sox,53,13,.803
+aparilu01,1962 White Sox,31,12,.721
+aparilu01,1963 Orioles,40,6,.870
+aparilu01,1964 Orioles,57,17,.770
+aparilu01,1965 Orioles,26,7,.788
+aparilu01,1966 Orioles,25,11,.694
+aparilu01,1967 Orioles,18,5,.783
+aparilu01,1968 White Sox,17,11,.607
+aparilu01,1969 White Sox,24,4,.857
+aparilu01,1970 White Sox,8,3,.727
+aparilu01,1971 Red Sox,6,4,.600
+aparilu01,1972 Red Sox,3,3,.500
+aparilu01,1973 Red Sox,13,1,.929
+aparilu01,Career,SB,CS,SB%
+aparilu01,18 Years,506,136,.788
+gordode01,Team,SB,CS,SB%
+gordode01,2011 Dodgers,24,7,.774
+gordode01,2012 Dodgers,32,10,.762
+gordode01,2013 Dodgers,10,2,.833
+gordode01,2014 Dodgers,64,19,.771
+gordode01,2015 Marlins,58,20,.744
+gordode01,2016 Marlins,30,7,.811
+gordode01,2017 Marlins,60,16,.789
+gordode01,2018 Mariners,30,12,.714
+gordode01,2019 Mariners,22,5,.815
+gordode01,2020 Mariners,3,2,.600
+gordode01,2022 Nationals,3,2,.600
+gordode01,Career,SB,CS,SB%
+gordode01,11 Years,336,102,.767
+mondera02,Team,SB,CS,SB%
+mondera02,2015 Royals,0,0,.000
+mondera02,2016 Royals,9,1,.900
+mondera02,2017 Royals,5,2,.714
+mondera02,2018 Royals,32,7,.821
+mondera02,2019 Royals,43,7,.860
+mondera02,2020 Royals,24,8,.750
+mondera02,2021 Royals,15,1,.938
+mondera02,2022 Royals,5,0,1.000
+mondera02,Career,SB,CS,SB%
+mondera02,8 Years,133,26,.836
+crawfca02,Team,SB,CS,SB%
+crawfca02,2002 Devil Rays,9,5,.643
+crawfca02,2003 Devil Rays,55,10,.846
+crawfca02,2004 Devil Rays,59,15,.797
+crawfca02,2005 Devil Rays,46,8,.852
+crawfca02,2006 Devil Rays,58,9,.866
+crawfca02,2007 Devil Rays,50,10,.833
+crawfca02,2008 Rays,25,7,.781
+crawfca02,2009 Rays,60,16,.789
+crawfca02,2010 Rays,47,10,.825
+crawfca02,2011 Red Sox,18,6,.750
+crawfca02,2012 Red Sox,5,0,1.000
+crawfca02,2013 Dodgers,15,4,.789
+crawfca02,2014 Dodgers,23,6,.793
+crawfca02,2015 Dodgers,10,2,.833
+crawfca02,2016 Dodgers,0,1,.000
+crawfca02,Career,SB,CS,SB%
+crawfca02,15 Years,480,109,.815
+otisam01,Team,SB,CS,SB%
+otisam01,1967 Mets,0,4,.000
+otisam01,1969 Mets,1,0,1.000
+otisam01,1970 Royals,33,2,.943
+otisam01,1971 Royals,52,8,.867
+otisam01,1972 Royals,28,12,.700
+otisam01,1973 Royals,13,9,.591
+otisam01,1974 Royals,18,5,.783
+otisam01,1975 Royals,39,11,.780
+otisam01,1976 Royals,26,7,.788
+otisam01,1977 Royals,23,7,.767
+otisam01,1978 Royals,32,8,.800
+otisam01,1979 Royals,30,5,.857
+otisam01,1980 Royals,16,1,.941
+otisam01,1981 Royals,16,7,.696
+otisam01,1982 Royals,9,5,.643
+otisam01,1983 Royals,5,2,.714
+otisam01,1984 Pirates,0,0,.000
+otisam01,Career,SB,CS,SB%
+otisam01,17 Years,341,93,.786
+chancfr01,Team,SB,CS,SB%
+chancfr01,1898 Orphans,7,-,-
+chancfr01,1899 Orphans,10,-,-
+chancfr01,1900 Orphans,8,-,-
+chancfr01,1901 Orphans,27,-,-
+chancfr01,1902 Cubs,27,-,-
+chancfr01,1903 Cubs,67,-,-
+chancfr01,1904 Cubs,42,-,-
+chancfr01,1905 Cubs,38,-,-
+chancfr01,1906 Cubs,57,-,-
+chancfr01,1907 Cubs,35,-,-
+chancfr01,1908 Cubs,27,-,-
+chancfr01,1909 Cubs,29,-,-
+chancfr01,1910 Cubs,16,-,-
+chancfr01,1911 Cubs,9,-,-
+chancfr01,1912 Cubs,1,-,-
+chancfr01,1913 Yankees,1,-,-
+chancfr01,1914 Yankees,0,0,.000
+chancfr01,Career,SB,CS,SB%
+chancfr01,17 Years,401,0,1.000
+werbebi01,Team,SB,CS,SB%
+werbebi01,1930 Yankees,0,0,.000
+werbebi01,1933 Yankees,0,0,.000
+werbebi01,1933 Red Sox,15,5,.750
+werbebi01,1934 Red Sox,40,15,.727
+werbebi01,1935 Red Sox,29,7,.806
+werbebi01,1936 Red Sox,23,13,.639
+werbebi01,1937 Athletics,35,13,.729
+werbebi01,1938 Athletics,19,15,.559
+werbebi01,1939 Reds,15,8,.652
+werbebi01,1940 Reds,16,9,.640
+werbebi01,1941 Reds,14,4,.778
+werbebi01,1942 Giants,9,6,.600
+werbebi01,Career,SB,CS,SB%
+werbebi01,11 Years,215,95,.694
+northbi01,Team,SB,CS,SB%
+northbi01,1971 Cubs,1,1,.500
+northbi01,1972 Cubs,6,0,1.000
+northbi01,1973 Athletics,53,20,.726
+northbi01,1974 Athletics,54,26,.675
+northbi01,1975 Athletics,30,12,.714
+northbi01,1976 Athletics,75,29,.721
+northbi01,1977 Athletics,17,13,.567
+northbi01,1978 Athletics,3,2,.600
+northbi01,1978 Dodgers,27,8,.771
+northbi01,1979 Giants,58,24,.707
+northbi01,1980 Giants,45,19,.703
+northbi01,1981 Giants,26,8,.765
+northbi01,Career,SB,CS,SB%
+northbi01,11 Years,395,162,.709
+jenseja01,Team,SB,CS,SB%
+jenseja01,1950 Yankees,4,0,1.000
+jenseja01,1951 Yankees,8,2,.800
+jenseja01,1952 Yankees,1,0,1.000
+jenseja01,1952 Senators,17,6,.739
+jenseja01,1953 Senators,18,8,.692
+jenseja01,1954 Red Sox,22,7,.759
+jenseja01,1955 Red Sox,16,7,.696
+jenseja01,1956 Red Sox,11,3,.786
+jenseja01,1957 Red Sox,8,5,.615
+jenseja01,1958 Red Sox,9,4,.692
+jenseja01,1959 Red Sox,20,5,.800
+jenseja01,1961 Red Sox,9,8,.529
+jenseja01,Career,SB,CS,SB%
+jenseja01,11 Years,143,55,.722
+mateojo01,Team,SB,CS,SB%
+mateojo01,2020 Padres,1,0,1.000
+mateojo01,2021 Padres,5,0,1.000
+mateojo01,2021 Orioles,5,3,.625
+mateojo01,2022 Orioles,35,9,.795
+mateojo01,2023 Orioles,32,5,.865
+mateojo01,2024 Orioles,13,2,.867
+mateojo01,2025 Orioles,15,2,.882
+mateojo01,Career,SB,CS,SB%
+mateojo01,6 Years,106,21,.835
+villajo01,Team,SB,CS,SB%
+villajo01,2013 Astros,18,8,.692
+villajo01,2014 Astros,17,4,.810
+villajo01,2015 Astros,7,2,.778
+villajo01,2016 Brewers,62,18,.775
+villajo01,2017 Brewers,23,8,.742
+villajo01,2018 Brewers,14,2,.875
+villajo01,2018 Orioles,21,3,.875
+villajo01,2019 Orioles,40,9,.816
+villajo01,2020 Marlins,9,5,.643
+villajo01,2020 Blue Jays,7,0,1.000
+villajo01,2021 Mets,14,7,.667
+villajo01,2022 Cubs,6,0,1.000
+villajo01,2022 Angels,1,0,1.000
+villajo01,Career,SB,CS,SB%
+villajo01,10 Years,239,66,.784
+ruizes01,Team,SB,CS,SB%
+ruizes01,2022 Padres,1,2,.333
+ruizes01,2022 Brewers,0,0,.000
+ruizes01,2023 Athletics,67,13,.838
+ruizes01,2024 Athletics,5,4,.556
+ruizes01,2025 Dodgers,4,0,1.000
+ruizes01,Career,SB,CS,SB%
+ruizes01,4 Years,77,19,.802
+maisefr01,Team,SB,CS,SB%
+maisefr01,1913 Yankees,25,-,-
+maisefr01,1914 Yankees,74,17,.813
+maisefr01,1915 Yankees,51,12,.810
+maisefr01,1916 Yankees,4,0,1.000
+maisefr01,1917 Yankees,29,-,-
+maisefr01,1918 Browns,11,-,-
+maisefr01,Career,SB,CS,SB%
+maisefr01,6 Years,194,29,.870
+delacel01,Team,SB,CS,SB%
+delacel01,2023 Reds,35,8,.814
+delacel01,2024 Reds,67,16,.807
+delacel01,2025 Reds,37,8,.822
+delacel01,Career,SB,CS,SB%
+delacel01,3 Years,139,32,.813
+reynoha01,Team,SB,CS,SB%
+reynoha01,1983 Mariners,0,2,.000
+reynoha01,1984 Mariners,1,1,.500
+reynoha01,1985 Mariners,3,2,.600
+reynoha01,1986 Mariners,30,12,.714
+reynoha01,1987 Mariners,60,20,.750
+reynoha01,1988 Mariners,35,29,.547
+reynoha01,1989 Mariners,25,18,.581
+reynoha01,1990 Mariners,31,16,.660
+reynoha01,1991 Mariners,28,8,.778
+reynoha01,1992 Mariners,15,12,.556
+reynoha01,1993 Orioles,12,11,.522
+reynoha01,1994 Angels,10,7,.588
+reynoha01,Career,SB,CS,SB%
+reynoha01,12 Years,250,138,.644
+tolanbo01,Team,SB,CS,SB%
+tolanbo01,1965 Cardinals,2,1,.667
+tolanbo01,1966 Cardinals,1,2,.333
+tolanbo01,1967 Cardinals,12,7,.632
+tolanbo01,1968 Cardinals,9,5,.643
+tolanbo01,1969 Reds,26,12,.684
+tolanbo01,1970 Reds,57,20,.740
+tolanbo01,1972 Reds,42,15,.737
+tolanbo01,1973 Reds,15,10,.600
+tolanbo01,1974 Padres,7,9,.438
+tolanbo01,1975 Padres,11,13,.458
+tolanbo01,1976 Phillies,10,5,.667
+tolanbo01,1977 Phillies,0,0,.000
+tolanbo01,1977 Pirates,1,1,.500
+tolanbo01,1979 Padres,0,0,.000
+tolanbo01,Career,SB,CS,SB%
+tolanbo01,13 Years,193,100,.659
+cuyleki01,Team,SB,CS,SB%
+cuyleki01,1921 Pirates,0,0,.000
+cuyleki01,1922 Pirates,0,0,.000
+cuyleki01,1923 Pirates,2,3,.400
+cuyleki01,1924 Pirates,32,11,.744
+cuyleki01,1925 Pirates,41,13,.759
+cuyleki01,1926 Pirates,35,20,.636
+cuyleki01,1927 Pirates,20,1,.952
+cuyleki01,1928 Cubs,37,9,.804
+cuyleki01,1929 Cubs,43,11,.796
+cuyleki01,1930 Cubs,37,10,.787
+cuyleki01,1931 Cubs,13,17,.433
+cuyleki01,1932 Cubs,9,7,.563
+cuyleki01,1933 Cubs,4,3,.571
+cuyleki01,1934 Cubs,15,8,.652
+cuyleki01,1935 Cubs,3,3,.500
+cuyleki01,1935 Reds,5,4,.556
+cuyleki01,1936 Reds,16,11,.593
+cuyleki01,1937 Reds,10,10,.500
+cuyleki01,1938 Dodgers,6,7,.462
+cuyleki01,Career,SB,CS,SB%
+cuyleki01,18 Years,328,148,.689
+rivermi01,Team,SB,CS,SB%
+rivermi01,1970 Angels,1,0,1.000
+rivermi01,1971 Angels,13,1,.929
+rivermi01,1972 Angels,4,3,.571
+rivermi01,1973 Angels,8,3,.727
+rivermi01,1974 Angels,30,13,.698
+rivermi01,1975 Angels,70,14,.833
+rivermi01,1976 Yankees,43,7,.860
+rivermi01,1977 Yankees,22,14,.611
+rivermi01,1978 Yankees,25,5,.833
+rivermi01,1979 Yankees,3,7,.300
+rivermi01,1979 Rangers,7,2,.778
+rivermi01,1980 Rangers,18,7,.720
+rivermi01,1981 Rangers,9,5,.643
+rivermi01,1982 Rangers,0,0,.000
+rivermi01,1983 Rangers,9,4,.692
+rivermi01,1984 Rangers,5,5,.500
+rivermi01,Career,SB,CS,SB%
+rivermi01,15 Years,267,90,.748
+lopesda01,Team,SB,CS,SB%
+lopesda01,1972 Dodgers,4,0,1.000
+lopesda01,1973 Dodgers,36,16,.692
+lopesda01,1974 Dodgers,59,18,.766
+lopesda01,1975 Dodgers,77,12,.865
+lopesda01,1976 Dodgers,63,10,.863
+lopesda01,1977 Dodgers,47,12,.797
+lopesda01,1978 Dodgers,45,4,.918
+lopesda01,1979 Dodgers,44,4,.917
+lopesda01,1980 Dodgers,23,7,.767
+lopesda01,1981 Dodgers,20,2,.909
+lopesda01,1982 Athletics,28,12,.700
+lopesda01,1983 Athletics,22,4,.846
+lopesda01,1984 Athletics,12,0,1.000
+lopesda01,1984 Cubs,3,0,1.000
+lopesda01,1985 Cubs,47,4,.922
+lopesda01,1986 Cubs,17,6,.739
+lopesda01,1986 Astros,8,2,.800
+lopesda01,1987 Astros,2,1,.667
+lopesda01,Career,SB,CS,SB%
+lopesda01,16 Years,557,114,.830
+hoffmda01,Team,SB,CS,SB%
+hoffmda01,1903 Athletics,7,-,-
+hoffmda01,1904 Athletics,9,-,-
+hoffmda01,1905 Athletics,46,-,-
+hoffmda01,1906 Athletics,1,-,-
+hoffmda01,1906 Highlanders,32,-,-
+hoffmda01,1907 Highlanders,30,-,-
+hoffmda01,1908 Browns,17,-,-
+hoffmda01,1909 Browns,24,-,-
+hoffmda01,1910 Browns,16,-,-
+hoffmda01,1911 Browns,3,-,-
+hoffmda01,Career,SB,CS,SB%
+hoffmda01,9 Years,185,-,-
+crispco01,Team,SB,CS,SB%
+crispco01,2002 Indians,4,1,.800
+crispco01,2003 Indians,15,9,.625
+crispco01,2004 Indians,20,13,.606
+crispco01,2005 Indians,15,6,.714
+crispco01,2006 Red Sox,22,4,.846
+crispco01,2007 Red Sox,28,6,.824
+crispco01,2008 Red Sox,20,7,.741
+crispco01,2009 Royals,13,2,.867
+crispco01,2010 Athletics,32,3,.914
+crispco01,2011 Athletics,49,9,.845
+crispco01,2012 Athletics,39,4,.907
+crispco01,2013 Athletics,21,5,.808
+crispco01,2014 Athletics,19,5,.792
+crispco01,2015 Athletics,2,0,1.000
+crispco01,2016 Athletics,7,5,.583
+crispco01,2016 Indians,3,0,1.000
+crispco01,Career,SB,CS,SB%
+crispco01,15 Years,309,79,.796
+burnsge01,Team,SB,CS,SB%
+burnsge01,1911 Giants,0,-,-
+burnsge01,1912 Giants,7,-,-
+burnsge01,1913 Giants,40,-,-
+burnsge01,1914 Giants,62,-,-
+burnsge01,1915 Giants,27,20,.574
+burnsge01,1916 Giants,37,26,.587
+burnsge01,1917 Giants,40,12,.769
+burnsge01,1918 Giants,40,11,.784
+burnsge01,1919 Giants,40,23,.635
+burnsge01,1920 Giants,22,22,.500
+burnsge01,1921 Giants,19,20,.487
+burnsge01,1922 Reds,30,23,.566
+burnsge01,1923 Reds,12,14,.462
+burnsge01,1924 Reds,3,6,.333
+burnsge01,1925 Phillies,4,8,.333
+burnsge01,Career,SB,CS,SB%
+burnsge01,15 Years,383,185,.674
+altuvjo01,Team,SB,CS,SB%
+altuvjo01,2011 Astros,7,3,.700
+altuvjo01,2012 Astros,33,11,.750
+altuvjo01,2013 Astros,35,13,.729
+altuvjo01,2014 Astros,56,9,.862
+altuvjo01,2015 Astros,38,13,.745
+altuvjo01,2016 Astros,30,10,.750
+altuvjo01,2017 Astros,32,6,.842
+altuvjo01,2018 Astros,17,4,.810
+altuvjo01,2019 Astros,6,5,.545
+altuvjo01,2020 Astros,2,3,.400
+altuvjo01,2021 Astros,5,3,.625
+altuvjo01,2022 Astros,18,1,.947
+altuvjo01,2023 Astros,14,2,.875
+altuvjo01,2024 Astros,22,7,.759
+altuvjo01,2025 Astros,10,6,.625
+altuvjo01,Career,SB,CS,SB%
+altuvjo01,15 Years,325,96,.772
+freylo01,Team,SB,CS,SB%
+freylo01,1933 Dodgers,4,3,.571
+freylo01,1934 Dodgers,11,6,.647
+freylo01,1935 Dodgers,6,7,.462
+freylo01,1936 Dodgers,7,4,.636
+freylo01,1937 Cubs,6,5,.545
+freylo01,1938 Reds,4,4,.500
+freylo01,1939 Reds,5,2,.714
+freylo01,1940 Reds,22,6,.786
+freylo01,1941 Reds,16,12,.571
+freylo01,1942 Reds,9,14,.391
+freylo01,1943 Reds,7,10,.412
+freylo01,1946 Reds,5,2,.714
+freylo01,1947 Cubs,0,0,.000
+freylo01,1947 Yankees,3,0,1.000
+freylo01,1948 Yankees,0,0,.000
+freylo01,1948 Giants,0,0,.000
+freylo01,Career,SB,CS,SB%
+freylo01,14 Years,105,75,.583
+wilsowi02,Team,SB,CS,SB%
+wilsowi02,1976 Royals,2,1,.667
+wilsowi02,1977 Royals,6,3,.667
+wilsowi02,1978 Royals,46,12,.793
+wilsowi02,1979 Royals,83,12,.874
+wilsowi02,1980 Royals,79,10,.888
+wilsowi02,1981 Royals,34,8,.810
+wilsowi02,1982 Royals,37,11,.771
+wilsowi02,1983 Royals,59,8,.881
+wilsowi02,1984 Royals,47,5,.904
+wilsowi02,1985 Royals,43,11,.796
+wilsowi02,1986 Royals,34,8,.810
+wilsowi02,1987 Royals,59,11,.843
+wilsowi02,1988 Royals,35,7,.833
+wilsowi02,1989 Royals,24,6,.800
+wilsowi02,1990 Royals,24,6,.800
+wilsowi02,1991 Athletics,20,5,.800
+wilsowi02,1992 Athletics,28,8,.778
+wilsowi02,1993 Cubs,7,2,.778
+wilsowi02,1994 Cubs,1,0,1.000
+wilsowi02,Career,SB,CS,SB%
+wilsowi02,19 Years,668,134,.833
+fogarji01,Team,SB,CS,SB%
+fogarji01,1884 Phillies,-,-,-
+fogarji01,1885 Phillies,-,-,-
+fogarji01,1886 Phillies,30,-,-
+fogarji01,1887 Phillies,102,-,-
+fogarji01,1888 Phillies,58,-,-
+fogarji01,1889 Phillies,99,-,-
+fogarji01,1890 Quakers,36,-,-
+fogarji01,Career,SB,CS,SB%
+fogarji01,7 Years,325,-,-
+milancl01,Team,SB,CS,SB%
+milancl01,1907 Senators,8,-,-
+milancl01,1908 Senators,29,-,-
+milancl01,1909 Senators,10,-,-
+milancl01,1910 Senators,44,-,-
+milancl01,1911 Senators,58,-,-
+milancl01,1912 Senators,88,31,.739
+milancl01,1913 Senators,75,-,-
+milancl01,1914 Senators,38,21,.644
+milancl01,1915 Senators,40,19,.678
+milancl01,1916 Senators,34,21,.618
+milancl01,1917 Senators,20,-,-
+milancl01,1918 Senators,26,-,-
+milancl01,1919 Senators,11,-,-
+milancl01,1920 Senators,10,12,.455
+milancl01,1921 Senators,4,5,.444
+milancl01,1922 Senators,0,0,.000
+milancl01,Career,SB,CS,SB%
+milancl01,16 Years,495,109,.820
+younger03,Team,SB,CS,SB%
+younger03,2009 Rockies,4,4,.500
+younger03,2010 Rockies,17,6,.739
+younger03,2011 Rockies,27,4,.871
+younger03,2012 Rockies,14,2,.875
+younger03,2013 Rockies,8,4,.667
+younger03,2013 Mets,38,7,.844
+younger03,2014 Mets,30,6,.833
+younger03,2015 Braves,3,0,1.000
+younger03,2015 Mets,3,2,.600
+younger03,2016 Yankees,1,0,1.000
+younger03,2017 Angels,12,3,.800
+younger03,2018 Angels,5,1,.833
+younger03,Career,SB,CS,SB%
+younger03,10 Years,162,39,.806
+figgich01,Team,SB,CS,SB%
+figgich01,2002 Angels,2,1,.667
+figgich01,2003 Angels,13,7,.650
+figgich01,2004 Angels,34,13,.723
+figgich01,2005 Angels,62,17,.785
+figgich01,2006 Angels,52,16,.765
+figgich01,2007 Angels,41,12,.774
+figgich01,2008 Angels,34,13,.723
+figgich01,2009 Angels,42,17,.712
+figgich01,2010 Mariners,42,15,.737
+figgich01,2011 Mariners,11,6,.647
+figgich01,2012 Mariners,4,1,.800
+figgich01,2014 Dodgers,4,1,.800
+figgich01,Career,SB,CS,SB%
+figgich01,12 Years,341,119,.741
+gehrich01,Team,SB,CS,SB%
+gehrich01,1924 Tigers,1,1,.500
+gehrich01,1925 Tigers,0,1,.000
+gehrich01,1926 Tigers,9,7,.563
+gehrich01,1927 Tigers,17,8,.680
+gehrich01,1928 Tigers,15,9,.625
+gehrich01,1929 Tigers,27,9,.750
+gehrich01,1930 Tigers,19,15,.559
+gehrich01,1931 Tigers,13,4,.765
+gehrich01,1932 Tigers,9,8,.529
+gehrich01,1933 Tigers,5,4,.556
+gehrich01,1934 Tigers,11,8,.579
+gehrich01,1935 Tigers,11,4,.733
+gehrich01,1936 Tigers,4,1,.800
+gehrich01,1937 Tigers,11,4,.733
+gehrich01,1938 Tigers,14,1,.933
+gehrich01,1939 Tigers,4,3,.571
+gehrich01,1940 Tigers,10,0,1.000
+gehrich01,1941 Tigers,1,2,.333
+gehrich01,1942 Tigers,0,0,.000
+gehrich01,Career,SB,CS,SB%
+gehrich01,19 Years,181,89,.670
+suzukic01,Team,SB,CS,SB%
+suzukic01,2001 Mariners,56,14,.800
+suzukic01,2002 Mariners,31,15,.674
+suzukic01,2003 Mariners,34,8,.810
+suzukic01,2004 Mariners,36,11,.766
+suzukic01,2005 Mariners,33,8,.805
+suzukic01,2006 Mariners,45,2,.957
+suzukic01,2007 Mariners,37,8,.822
+suzukic01,2008 Mariners,43,4,.915
+suzukic01,2009 Mariners,26,9,.743
+suzukic01,2010 Mariners,42,9,.824
+suzukic01,2011 Mariners,40,7,.851
+suzukic01,2012 Mariners,15,2,.882
+suzukic01,2012 Yankees,14,5,.737
+suzukic01,2013 Yankees,20,4,.833
+suzukic01,2014 Yankees,15,3,.833
+suzukic01,2015 Marlins,11,5,.688
+suzukic01,2016 Marlins,10,2,.833
+suzukic01,2017 Marlins,1,1,.500
+suzukic01,2018 Mariners,0,0,.000
+suzukic01,2019 Mariners,0,0,.000
+suzukic01,Career,SB,CS,SB%
+suzukic01,19 Years,509,117,.813
+dillibo01,Team,SB,CS,SB%
+dillibo01,1946 Browns,8,1,.889
+dillibo01,1947 Browns,34,13,.723
+dillibo01,1948 Browns,28,11,.718
+dillibo01,1949 Browns,20,14,.588
+dillibo01,1950 Athletics,5,3,.625
+dillibo01,1950 Pirates,4,3,.571
+dillibo01,1951 Pirates,2,0,1.000
+dillibo01,1951 White Sox,5,5,.500
+dillibo01,Career,SB,CS,SB%
+dillibo01,6 Years,106,50,.679
+laryly01,Team,SB,CS,SB%
+laryly01,1929 Yankees,4,1,.800
+laryly01,1930 Yankees,14,2,.875
+laryly01,1931 Yankees,13,10,.565
+laryly01,1932 Yankees,9,3,.750
+laryly01,1933 Yankees,2,1,.667
+laryly01,1934 Yankees,0,0,.000
+laryly01,1934 Red Sox,12,5,.706
+laryly01,1935 Senators,3,0,1.000
+laryly01,1935 Browns,25,4,.862
+laryly01,1936 Browns,37,9,.804
+laryly01,1937 Indians,18,8,.692
+laryly01,1938 Indians,23,6,.793
+laryly01,1939 Indians,0,0,.000
+laryly01,1939 Dodgers,1,-,-
+laryly01,1939 Cardinals,1,-,-
+laryly01,1940 Browns,0,0,.000
+laryly01,Career,SB,CS,SB%
+laryly01,12 Years,162,49,.768
+dimagdo01,Team,SB,CS,SB%
+dimagdo01,1940 Red Sox,7,6,.538
+dimagdo01,1941 Red Sox,13,6,.684
+dimagdo01,1942 Red Sox,16,10,.615
+dimagdo01,1946 Red Sox,10,6,.625
+dimagdo01,1947 Red Sox,10,6,.625
+dimagdo01,1948 Red Sox,10,2,.833
+dimagdo01,1949 Red Sox,9,7,.563
+dimagdo01,1950 Red Sox,15,4,.789
+dimagdo01,1951 Red Sox,4,7,.364
+dimagdo01,1952 Red Sox,6,8,.429
+dimagdo01,1953 Red Sox,0,0,.000
+dimagdo01,Career,SB,CS,SB%
+dimagdo01,11 Years,100,62,.617
+schoere01,Team,SB,CS,SB%
+schoere01,1945 Cardinals,26,7,.788
+schoere01,1946 Cardinals,12,9,.571
+schoere01,1947 Cardinals,6,8,.429
+schoere01,1948 Cardinals,1,3,.250
+schoere01,1949 Cardinals,8,3,.727
+schoere01,1950 Cardinals,3,3,.500
+schoere01,1951 Cardinals,0,1,.000
+schoere01,1952 Cardinals,9,6,.600
+schoere01,1953 Cardinals,3,3,.500
+schoere01,1954 Cardinals,4,2,.667
+schoere01,1955 Cardinals,7,7,.500
+schoere01,1956 Cardinals,0,1,.000
+schoere01,1956 Giants,1,2,.333
+schoere01,1957 Giants,2,1,.667
+schoere01,1957 Braves,2,3,.400
+schoere01,1958 Braves,3,1,.750
+schoere01,1959 Braves,0,0,.000
+schoere01,1960 Braves,1,0,1.000
+schoere01,1961 Cardinals,1,0,1.000
+schoere01,1962 Cardinals,0,0,.000
+schoere01,1963 Cardinals,0,0,.000
+schoere01,Career,SB,CS,SB%
+schoere01,19 Years,89,60,.597
+sislege01,Team,SB,CS,SB%
+sislege01,1915 Browns,10,9,.526
+sislege01,1916 Browns,34,26,.567
+sislege01,1917 Browns,37,-,-
+sislege01,1918 Browns,45,-,-
+sislege01,1919 Browns,28,-,-
+sislege01,1920 Browns,42,17,.712
+sislege01,1921 Browns,35,11,.761
+sislege01,1922 Browns,51,19,.729
+sislege01,1924 Browns,19,17,.528
+sislege01,1925 Browns,11,12,.478
+sislege01,1926 Browns,12,8,.600
+sislege01,1927 Browns,27,7,.794
+sislege01,1928 Senators,0,1,.000
+sislege01,1928 Braves,11,-,-
+sislege01,1929 Braves,6,-,-
+sislege01,1930 Braves,7,-,-
+sislege01,Career,SB,CS,SB%
+sislege01,15 Years,375,127,.747
+brownto01,Team,SB,CS,SB%
+brownto01,1882 Orioles,-,-,-
+brownto01,1883 Colts,-,-,-
+brownto01,1884 Colts,-,-,-
+brownto01,1885 Alleghenys,-,-,-
+brownto01,1886 Alleghenys,30,-,-
+brownto01,1887 Alleghenys,12,-,-
+brownto01,1887 Hoosiers,13,-,-
+brownto01,1888 Beaneaters,46,-,-
+brownto01,1889 Beaneaters,63,-,-
+brownto01,1890 Red Stockings,79,-,-
+brownto01,1891 Reds,106,-,-
+brownto01,1892 Colonels,78,-,-
+brownto01,1893 Colonels,66,-,-
+brownto01,1894 Colonels,66,-,-
+brownto01,1895 Browns,34,-,-
+brownto01,1895 Senators,8,-,-
+brownto01,1896 Senators,28,-,-
+brownto01,1897 Senators,25,-,-
+brownto01,1898 Senators,3,-,-
+brownto01,Career,SB,CS,SB%
+brownto01,17 Years,657,-,-
+smithma05,Team,SB,CS,SB%
+smithma05,2016 Braves,16,8,.667
+smithma05,2017 Rays,16,5,.762
+smithma05,2018 Rays,40,12,.769
+smithma05,2019 Mariners,46,9,.836
+smithma05,2020 Mariners,2,0,1.000
+smithma05,Career,SB,CS,SB%
+smithma05,5 Years,120,34,.779
+myerbu01,Team,SB,CS,SB%
+myerbu01,1925 Senators,0,0,.000
+myerbu01,1926 Senators,10,11,.476
+myerbu01,1927 Senators,3,1,.750
+myerbu01,1927 Red Sox,9,5,.643
+myerbu01,1928 Red Sox,30,16,.652
+myerbu01,1929 Senators,18,7,.720
+myerbu01,1930 Senators,14,11,.560
+myerbu01,1931 Senators,11,14,.440
+myerbu01,1932 Senators,12,7,.632
+myerbu01,1933 Senators,6,8,.429
+myerbu01,1934 Senators,6,6,.500
+myerbu01,1935 Senators,7,6,.538
+myerbu01,1936 Senators,7,2,.778
+myerbu01,1937 Senators,2,6,.250
+myerbu01,1938 Senators,9,5,.643
+myerbu01,1939 Senators,4,1,.800
+myerbu01,1940 Senators,6,3,.667
+myerbu01,1941 Senators,2,0,1.000
+myerbu01,Career,SB,CS,SB%
+myerbu01,17 Years,156,109,.589
+willsma01,Team,SB,CS,SB%
+willsma01,1959 Dodgers,7,3,.700
+willsma01,1960 Dodgers,50,12,.806
+willsma01,1961 Dodgers,35,15,.700
+willsma01,1962 Dodgers,104,13,.889
+willsma01,1963 Dodgers,40,19,.678
+willsma01,1964 Dodgers,53,17,.757
+willsma01,1965 Dodgers,94,31,.752
+willsma01,1966 Dodgers,38,24,.613
+willsma01,1967 Pirates,29,10,.744
+willsma01,1968 Pirates,52,21,.712
+willsma01,1969 Expos,15,6,.714
+willsma01,1969 Dodgers,25,15,.625
+willsma01,1970 Dodgers,28,13,.683
+willsma01,1971 Dodgers,15,8,.652
+willsma01,1972 Dodgers,1,1,.500
+willsma01,Career,SB,CS,SB%
+willsma01,14 Years,586,208,.738
+biggicr01,Team,SB,CS,SB%
+biggicr01,1988 Astros,6,1,.857
+biggicr01,1989 Astros,21,3,.875
+biggicr01,1990 Astros,25,11,.694
+biggicr01,1991 Astros,19,6,.760
+biggicr01,1992 Astros,38,15,.717
+biggicr01,1993 Astros,15,17,.469
+biggicr01,1994 Astros,39,4,.907
+biggicr01,1995 Astros,33,8,.805
+biggicr01,1996 Astros,25,7,.781
+biggicr01,1997 Astros,47,10,.825
+biggicr01,1998 Astros,50,8,.862
+biggicr01,1999 Astros,28,14,.667
+biggicr01,2000 Astros,12,2,.857
+biggicr01,2001 Astros,7,4,.636
+biggicr01,2002 Astros,16,2,.889
+biggicr01,2003 Astros,8,4,.667
+biggicr01,2004 Astros,7,2,.778
+biggicr01,2005 Astros,11,1,.917
+biggicr01,2006 Astros,3,2,.600
+biggicr01,2007 Astros,4,3,.571
+biggicr01,Career,SB,CS,SB%
+biggicr01,20 Years,414,124,.770
+morenom01,Team,SB,CS,SB%
+morenom01,1975 Pirates,1,0,1.000
+morenom01,1976 Pirates,15,5,.750
+morenom01,1977 Pirates,53,16,.768
+morenom01,1978 Pirates,71,22,.763
+morenom01,1979 Pirates,77,21,.786
+morenom01,1980 Pirates,96,33,.744
+morenom01,1981 Pirates,39,14,.736
+morenom01,1982 Pirates,60,26,.698
+morenom01,1983 Astros,30,13,.698
+morenom01,1983 Yankees,7,3,.700
+morenom01,1984 Yankees,20,11,.645
+morenom01,1985 Yankees,1,1,.500
+morenom01,1985 Royals,0,1,.000
+morenom01,1986 Braves,17,16,.515
+morenom01,Career,SB,CS,SB%
+morenom01,12 Years,487,182,.728
+mostijo01,Team,SB,CS,SB%
+mostijo01,1918 White Sox,1,-,-
+mostijo01,1921 White Sox,10,12,.455
+mostijo01,1922 White Sox,14,10,.583
+mostijo01,1923 White Sox,41,16,.719
+mostijo01,1924 White Sox,7,11,.389
+mostijo01,1925 White Sox,43,20,.683
+mostijo01,1926 White Sox,35,14,.714
+mostijo01,1927 White Sox,1,0,1.000
+mostijo01,1928 White Sox,23,21,.523
+mostijo01,1929 White Sox,1,1,.500
+mostijo01,Career,SB,CS,SB%
+mostijo01,10 Years,176,105,.626
+younger01,Team,SB,CS,SB%
+younger01,1992 Dodgers,6,1,.857
+younger01,1993 Rockies,42,19,.689
+younger01,1994 Rockies,18,7,.720
+younger01,1995 Rockies,35,12,.745
+younger01,1996 Rockies,53,19,.736
+younger01,1997 Rockies,32,12,.727
+younger01,1997 Dodgers,13,2,.867
+younger01,1998 Dodgers,42,13,.764
+younger01,1999 Dodgers,51,22,.699
+younger01,2000 Cubs,54,7,.885
+younger01,2001 Cubs,31,14,.689
+younger01,2002 Brewers,31,11,.738
+younger01,2003 Brewers,25,7,.781
+younger01,2003 Giants,3,5,.375
+younger01,2004 Rangers,14,9,.609
+younger01,2005 Padres,7,6,.538
+younger01,2006 Padres,8,2,.800
+younger01,2006 Rangers,0,0,.000
+younger01,Career,SB,CS,SB%
+younger01,15 Years,465,168,.735
+reyesjo01,Team,SB,CS,SB%
+reyesjo01,2003 Mets,13,3,.813
+reyesjo01,2004 Mets,19,2,.905
+reyesjo01,2005 Mets,60,15,.800
+reyesjo01,2006 Mets,64,17,.790
+reyesjo01,2007 Mets,78,21,.788
+reyesjo01,2008 Mets,56,15,.789
+reyesjo01,2009 Mets,11,2,.846
+reyesjo01,2010 Mets,30,10,.750
+reyesjo01,2011 Mets,39,7,.848
+reyesjo01,2012 Marlins,40,11,.784
+reyesjo01,2013 Blue Jays,15,6,.714
+reyesjo01,2014 Blue Jays,30,2,.938
+reyesjo01,2015 Blue Jays,16,2,.889
+reyesjo01,2015 Rockies,8,4,.667
+reyesjo01,2016 Mets,9,2,.818
+reyesjo01,2017 Mets,24,6,.800
+reyesjo01,2018 Mets,5,2,.714
+reyesjo01,Career,SB,CS,SB%
+reyesjo01,16 Years,517,127,.803
+devliar01,Team,SB,CS,SB%
+devliar01,1904 Giants,33,-,-
+devliar01,1905 Giants,59,-,-
+devliar01,1906 Giants,54,-,-
+devliar01,1907 Giants,38,-,-
+devliar01,1908 Giants,19,-,-
+devliar01,1909 Giants,26,-,-
+devliar01,1910 Giants,28,-,-
+devliar01,1911 Giants,9,-,-
+devliar01,1912 Braves,11,-,-
+devliar01,1913 Braves,8,8,.500
+devliar01,Career,SB,CS,SB%
+devliar01,10 Years,285,8,.973
+riverji01,Team,SB,CS,SB%
+riverji01,1952 Browns,8,7,.533
+riverji01,1952 White Sox,13,2,.867
+riverji01,1953 White Sox,22,15,.595
+riverji01,1954 White Sox,18,10,.643
+riverji01,1955 White Sox,25,16,.610
+riverji01,1956 White Sox,20,9,.690
+riverji01,1957 White Sox,18,2,.900
+riverji01,1958 White Sox,21,3,.875
+riverji01,1959 White Sox,5,3,.625
+riverji01,1960 White Sox,4,0,1.000
+riverji01,1961 White Sox,0,1,.000
+riverji01,1961 Athletics,6,2,.750
+riverji01,Career,SB,CS,SB%
+riverji01,10 Years,160,70,.696
+taverwi01,Team,SB,CS,SB%
+taverwi01,2004 Astros,1,0,1.000
+taverwi01,2005 Astros,34,11,.756
+taverwi01,2006 Astros,33,9,.786
+taverwi01,2007 Rockies,33,9,.786
+taverwi01,2008 Rockies,68,7,.907
+taverwi01,2009 Reds,25,6,.806
+taverwi01,2010 Nationals,1,2,.333
+taverwi01,Career,SB,CS,SB%
+taverwi01,7 Years,195,44,.816
+womacto01,Team,SB,CS,SB%
+womacto01,1993 Pirates,2,0,1.000
+womacto01,1994 Pirates,0,0,.000
+womacto01,1996 Pirates,2,0,1.000
+womacto01,1997 Pirates,60,7,.896
+womacto01,1998 Pirates,58,8,.879
+womacto01,1999 Diamondbacks,72,13,.847
+womacto01,2000 Diamondbacks,45,11,.804
+womacto01,2001 Diamondbacks,28,7,.800
+womacto01,2002 Diamondbacks,29,12,.707
+womacto01,2003 Diamondbacks,8,3,.727
+womacto01,2003 Rockies,3,1,.750
+womacto01,2003 Cubs,2,1,.667
+womacto01,2004 Cardinals,26,5,.839
+womacto01,2005 Yankees,27,5,.844
+womacto01,2006 Reds,0,0,.000
+womacto01,2006 Cubs,1,1,.500
+womacto01,Career,SB,CS,SB%
+womacto01,13 Years,363,74,.831
+podsesc01,Team,SB,CS,SB%
+podsesc01,2001 Mariners,0,0,.000
+podsesc01,2002 Mariners,0,0,.000
+podsesc01,2003 Brewers,43,10,.811
+podsesc01,2004 Brewers,70,13,.843
+podsesc01,2005 White Sox,59,23,.720
+podsesc01,2006 White Sox,40,19,.678
+podsesc01,2007 White Sox,12,5,.706
+podsesc01,2008 Rockies,12,4,.750
+podsesc01,2009 White Sox,30,13,.698
+podsesc01,2010 Royals,30,12,.714
+podsesc01,2010 Dodgers,5,3,.625
+podsesc01,2012 Red Sox,8,2,.800
+podsesc01,Career,SB,CS,SB%
+podsesc01,11 Years,309,104,.748
+casege01,Team,SB,CS,SB%
+casege01,1937 Senators,2,1,.667
+casege01,1938 Senators,11,6,.647
+casege01,1939 Senators,51,17,.750
+casege01,1940 Senators,35,10,.778
+casege01,1941 Senators,33,9,.786
+casege01,1942 Senators,44,6,.880
+casege01,1943 Senators,61,14,.813
+casege01,1944 Senators,49,18,.731
+casege01,1945 Senators,30,16,.652
+casege01,1946 Indians,28,11,.718
+casege01,1947 Senators,5,1,.833
+casege01,Career,SB,CS,SB%
+casege01,11 Years,349,109,.762
+acunaro01,Team,SB,CS,SB%
+acunaro01,2018 Braves,16,5,.762
+acunaro01,2019 Braves,37,9,.804
+acunaro01,2020 Braves,8,1,.889
+acunaro01,2021 Braves,17,6,.739
+acunaro01,2022 Braves,29,11,.725
+acunaro01,2023 Braves,73,14,.839
+acunaro01,2024 Braves,16,3,.842
+acunaro01,2025 Braves,9,1,.900
+acunaro01,Career,SB,CS,SB%
+acunaro01,8 Years,205,50,.804
+bertijo01,Team,SB,CS,SB%
+bertijo01,2018 Blue Jays,1,0,1.000
+bertijo01,2019 Marlins,17,3,.850
+bertijo01,2020 Marlins,9,2,.818
+bertijo01,2021 Marlins,8,4,.667
+bertijo01,2022 Marlins,41,5,.891
+bertijo01,2023 Marlins,16,6,.727
+bertijo01,2024 Yankees,5,1,.833
+bertijo01,2025 Cubs,11,3,.786
+bertijo01,Career,SB,CS,SB%
+bertijo01,8 Years,108,24,.818
+kleinch01,Team,SB,CS,SB%
+kleinch01,1928 Phillies,0,0,.000
+kleinch01,1929 Phillies,5,0,1.000
+kleinch01,1930 Phillies,4,5,.444
+kleinch01,1931 Phillies,7,8,.467
+kleinch01,1932 Phillies,20,9,.690
+kleinch01,1933 Phillies,15,7,.682
+kleinch01,1934 Cubs,3,5,.375
+kleinch01,1935 Cubs,4,1,.800
+kleinch01,1936 Cubs,0,0,.000
+kleinch01,1936 Phillies,6,1,.857
+kleinch01,1937 Phillies,3,3,.500
+kleinch01,1938 Phillies,7,4,.636
+kleinch01,1939 Phillies,1,1,.500
+kleinch01,1939 Pirates,1,0,1.000
+kleinch01,1940 Phillies,2,5,.286
+kleinch01,1941 Phillies,0,0,.000
+kleinch01,1942 Phillies,0,0,.000
+kleinch01,1943 Phillies,1,0,1.000
+kleinch01,1944 Phillies,0,0,.000
+kleinch01,Career,SB,CS,SB%
+kleinch01,17 Years,79,49,.617
+murtada01,Team,SB,CS,SB%
+murtada01,1941 Phillies,18,2,.900
+murtada01,1942 Phillies,13,6,.684
+murtada01,1943 Phillies,4,3,.571
+murtada01,1946 Phillies,0,0,.000
+murtada01,1947 Braves,0,0,.000
+murtada01,1948 Pirates,10,7,.588
+murtada01,1949 Pirates,2,1,.667
+murtada01,1950 Pirates,2,3,.400
+murtada01,1951 Pirates,0,0,.000
+murtada01,Career,SB,CS,SB%
+murtada01,9 Years,49,22,.690
+robinja02,Team,SB,CS,SB%
+robinja02,1947 Dodgers,29,11,.725
+robinja02,1948 Dodgers,22,14,.611
+robinja02,1949 Dodgers,37,16,.698
+robinja02,1950 Dodgers,12,5,.706
+robinja02,1951 Dodgers,25,8,.758
+robinja02,1952 Dodgers,24,7,.774
+robinja02,1953 Dodgers,17,4,.810
+robinja02,1954 Dodgers,7,3,.700
+robinja02,1955 Dodgers,12,3,.800
+robinja02,1956 Dodgers,12,5,.706
+robinja02,Career,SB,CS,SB%
+robinja02,10 Years,197,76,.722
+isbelfr01,Team,SB,CS,SB%
+isbelfr01,1898 Orphans,3,-,-
+isbelfr01,1901 White Sox,52,-,-
+isbelfr01,1902 White Sox,38,-,-
+isbelfr01,1903 White Sox,26,-,-
+isbelfr01,1904 White Sox,19,-,-
+isbelfr01,1905 White Sox,15,-,-
+isbelfr01,1906 White Sox,37,-,-
+isbelfr01,1907 White Sox,22,-,-
+isbelfr01,1908 White Sox,18,-,-
+isbelfr01,1909 White Sox,23,-,-
+isbelfr01,Career,SB,CS,SB%
+isbelfr01,10 Years,253,-,-
+doughpa01,Team,SB,CS,SB%
+doughpa01,1902 Americans,20,-,-
+doughpa01,1903 Americans,35,-,-
+doughpa01,1904 Americans,10,-,-
+doughpa01,1904 Highlanders,11,-,-
+doughpa01,1905 Highlanders,17,-,-
+doughpa01,1906 Highlanders,0,-,-
+doughpa01,1906 White Sox,11,-,-
+doughpa01,1907 White Sox,33,-,-
+doughpa01,1908 White Sox,47,-,-
+doughpa01,1909 White Sox,36,-,-
+doughpa01,1910 White Sox,22,-,-
+doughpa01,1911 White Sox,19,-,-
+doughpa01,Career,SB,CS,SB%
+doughpa01,10 Years,261,-,-
+barrejo01,Team,SB,CS,SB%
+barrejo01,1942 Pirates,10,-,-
+barrejo01,1943 Pirates,5,-,-
+barrejo01,1944 Pirates,28,-,-
+barrejo01,1945 Pirates,25,-,-
+barrejo01,1946 Pirates,1,-,-
+barrejo01,1946 Braves,0,-,-
+barrejo01,Career,SB,CS,SB%
+barrejo01,5 Years,69,-,-
+mcmanma01,Team,SB,CS,SB%
+mcmanma01,1920 Browns,0,0,.000
+mcmanma01,1921 Browns,5,3,.625
+mcmanma01,1922 Browns,9,6,.600
+mcmanma01,1923 Browns,14,10,.583
+mcmanma01,1924 Browns,13,9,.591
+mcmanma01,1925 Browns,5,11,.313
+mcmanma01,1926 Browns,5,7,.417
+mcmanma01,1927 Tigers,8,7,.533
+mcmanma01,1928 Tigers,11,13,.458
+mcmanma01,1929 Tigers,16,11,.593
+mcmanma01,1930 Tigers,23,8,.742
+mcmanma01,1931 Tigers,7,3,.700
+mcmanma01,1931 Red Sox,1,1,.500
+mcmanma01,1932 Red Sox,1,2,.333
+mcmanma01,1933 Red Sox,3,0,1.000
+mcmanma01,1934 Braves,5,-,-
+mcmanma01,Career,SB,CS,SB%
+mcmanma01,15 Years,126,91,.581
+raineti01,Team,SB,CS,SB%
+raineti01,1979 Expos,2,0,1.000
+raineti01,1980 Expos,5,0,1.000
+raineti01,1981 Expos,71,11,.866
+raineti01,1982 Expos,78,16,.830
+raineti01,1983 Expos,90,14,.865
+raineti01,1984 Expos,75,10,.882
+raineti01,1985 Expos,70,9,.886
+raineti01,1986 Expos,70,9,.886
+raineti01,1987 Expos,50,5,.909
+raineti01,1988 Expos,33,7,.825
+raineti01,1989 Expos,41,9,.820
+raineti01,1990 Expos,49,16,.754
+raineti01,1991 White Sox,51,15,.773
+raineti01,1992 White Sox,45,6,.882
+raineti01,1993 White Sox,21,7,.750
+raineti01,1994 White Sox,13,0,1.000
+raineti01,1995 White Sox,13,2,.867
+raineti01,1996 Yankees,10,1,.909
+raineti01,1997 Yankees,8,5,.615
+raineti01,1998 Yankees,8,3,.727
+raineti01,1999 Athletics,4,1,.800
+raineti01,2001 Expos,1,0,1.000
+raineti01,2001 Orioles,0,0,.000
+raineti01,2002 Marlins,0,0,.000
+raineti01,Career,SB,CS,SB%
+raineti01,23 Years,808,146,.847
+castilu01,Team,SB,CS,SB%
+castilu01,1996 Marlins,17,4,.810
+castilu01,1997 Marlins,16,10,.615
+castilu01,1998 Marlins,3,0,1.000
+castilu01,1999 Marlins,50,17,.746
+castilu01,2000 Marlins,62,22,.738
+castilu01,2001 Marlins,33,16,.673
+castilu01,2002 Marlins,48,15,.762
+castilu01,2003 Marlins,21,19,.525
+castilu01,2004 Marlins,21,4,.840
+castilu01,2005 Marlins,10,7,.588
+castilu01,2006 Twins,25,11,.694
+castilu01,2007 Twins,9,4,.692
+castilu01,2007 Mets,10,2,.833
+castilu01,2008 Mets,17,2,.895
+castilu01,2009 Mets,20,6,.769
+castilu01,2010 Mets,8,3,.727
+castilu01,Career,SB,CS,SB%
+castilu01,15 Years,370,142,.723
+beschbo01,Team,SB,CS,SB%
+beschbo01,1908 Reds,10,-,-
+beschbo01,1909 Reds,54,-,-
+beschbo01,1910 Reds,70,-,-
+beschbo01,1911 Reds,80,-,-
+beschbo01,1912 Reds,67,-,-
+beschbo01,1913 Reds,38,22,.633
+beschbo01,1914 Giants,36,-,-
+beschbo01,1915 Cardinals,27,19,.587
+beschbo01,1916 Cardinals,39,12,.765
+beschbo01,1917 Cardinals,3,-,-
+beschbo01,1918 Indians,3,-,-
+beschbo01,Career,SB,CS,SB%
+beschbo01,11 Years,427,53,.890
+ellsbja01,Team,SB,CS,SB%
+ellsbja01,2007 Red Sox,9,0,1.000
+ellsbja01,2008 Red Sox,50,11,.820
+ellsbja01,2009 Red Sox,70,12,.854
+ellsbja01,2010 Red Sox,7,1,.875
+ellsbja01,2011 Red Sox,39,15,.722
+ellsbja01,2012 Red Sox,14,3,.824
+ellsbja01,2013 Red Sox,52,4,.929
+ellsbja01,2014 Yankees,39,5,.886
+ellsbja01,2015 Yankees,21,9,.700
+ellsbja01,2016 Yankees,20,8,.714
+ellsbja01,2017 Yankees,22,3,.880
+ellsbja01,Career,SB,CS,SB%
+ellsbja01,11 Years,343,71,.829
+davisra01,Team,SB,CS,SB%
+davisra01,2006 Pirates,1,3,.250
+davisra01,2007 Pirates,5,2,.714
+davisra01,2007 Giants,17,4,.810
+davisra01,2008 Giants,4,0,1.000
+davisra01,2008 Athletics,25,6,.806
+davisra01,2009 Athletics,41,12,.774
+davisra01,2010 Athletics,50,11,.820
+davisra01,2011 Blue Jays,34,11,.756
+davisra01,2012 Blue Jays,46,13,.780
+davisra01,2013 Blue Jays,45,6,.882
+davisra01,2014 Tigers,36,11,.766
+davisra01,2015 Tigers,18,8,.692
+davisra01,2016 Indians,43,6,.878
+davisra01,2017 Athletics,26,6,.813
+davisra01,2017 Red Sox,3,1,.750
+davisra01,2018 Indians,21,7,.750
+davisra01,2019 Mets,0,1,.000
+davisra01,Career,SB,CS,SB%
+davisra01,14 Years,415,108,.793
+reisepe01,Team,SB,CS,SB%
+reisepe01,1940 Dodgers,2,6,.250
+reisepe01,1941 Dodgers,4,5,.444
+reisepe01,1942 Dodgers,20,1,.952
+reisepe01,1946 Dodgers,34,11,.756
+reisepe01,1947 Dodgers,14,11,.560
+reisepe01,1948 Dodgers,4,1,.800
+reisepe01,1949 Braves,3,1,.750
+reisepe01,1950 Braves,1,0,1.000
+reisepe01,1951 Pirates,4,2,.667
+reisepe01,1952 Indians,1,1,.500
+reisepe01,Career,SB,CS,SB%
+reisepe01,10 Years,87,39,.690
+brutobi01,Team,SB,CS,SB%
+brutobi01,1953 Braves,26,11,.703
+brutobi01,1954 Braves,34,13,.723
+brutobi01,1955 Braves,25,11,.694
+brutobi01,1956 Braves,8,6,.571
+brutobi01,1957 Braves,11,4,.733
+brutobi01,1958 Braves,4,1,.800
+brutobi01,1959 Braves,13,5,.722
+brutobi01,1960 Braves,22,13,.629
+brutobi01,1961 Tigers,22,6,.786
+brutobi01,1962 Tigers,14,7,.667
+brutobi01,1963 Tigers,14,7,.667
+brutobi01,1964 Tigers,14,5,.737
+brutobi01,Career,SB,CS,SB%
+brutobi01,12 Years,207,89,.699
+cabreev01,Team,SB,CS,SB%
+cabreev01,2009 Padres,25,8,.758
+cabreev01,2010 Padres,10,6,.625
+cabreev01,2011 Padres,2,0,1.000
+cabreev01,2012 Padres,44,4,.917
+cabreev01,2013 Padres,37,12,.755
+cabreev01,2014 Padres,18,8,.692
+cabreev01,2015 Orioles,2,0,1.000
+cabreev01,Career,SB,CS,SB%
+cabreev01,7 Years,138,38,.784
+friscfr01,Team,SB,CS,SB%
+friscfr01,1919 Giants,15,8,.652
+friscfr01,1920 Giants,34,11,.756
+friscfr01,1921 Giants,49,13,.790
+friscfr01,1922 Giants,31,17,.646
+friscfr01,1923 Giants,29,12,.707
+friscfr01,1924 Giants,22,9,.710
+friscfr01,1925 Giants,21,12,.636
+friscfr01,1926 Giants,23,16,.590
+friscfr01,1927 Cardinals,48,13,.787
+friscfr01,1928 Cardinals,29,7,.806
+friscfr01,1929 Cardinals,24,12,.667
+friscfr01,1930 Cardinals,15,10,.600
+friscfr01,1931 Cardinals,28,12,.700
+friscfr01,1932 Cardinals,18,9,.667
+friscfr01,1933 Cardinals,18,8,.692
+friscfr01,1934 Cardinals,11,4,.733
+friscfr01,1935 Cardinals,2,2,.500
+friscfr01,1936 Cardinals,2,7,.222
+friscfr01,1937 Cardinals,0,0,.000
+friscfr01,Career,SB,CS,SB%
+friscfr01,19 Years,419,182,.697
+donovpa01,Team,SB,CS,SB%
+donovpa01,1890 Beaneaters,10,-,-
+donovpa01,1890 Bridegrooms,3,-,-
+donovpa01,1891 Colonels,27,-,-
+donovpa01,1891 Senators,1,-,-
+donovpa01,1892 Senators,16,-,-
+donovpa01,1892 Pirates,40,-,-
+donovpa01,1893 Pirates,46,-,-
+donovpa01,1894 Pirates,41,-,-
+donovpa01,1895 Pirates,36,-,-
+donovpa01,1896 Pirates,48,-,-
+donovpa01,1897 Pirates,34,-,-
+donovpa01,1898 Pirates,41,-,-
+donovpa01,1899 Pirates,26,-,-
+donovpa01,1900 Cardinals,45,-,-
+donovpa01,1901 Cardinals,28,-,-
+donovpa01,1902 Cardinals,34,-,-
+donovpa01,1903 Cardinals,25,-,-
+donovpa01,1904 Senators,17,-,-
+donovpa01,1906 Superbas,0,-,-
+donovpa01,1907 Superbas,0,-,-
+donovpa01,Career,SB,CS,SB%
+donovpa01,17 Years,518,-,-
+carrch02,Team,SB,CS,SB%
+carrch02,1990 Mets,1,0,1.000
+carrch02,1991 Mets,1,0,1.000
+carrch02,1992 Cardinals,10,2,.833
+carrch02,1993 Marlins,58,22,.725
+carrch02,1994 Marlins,32,8,.800
+carrch02,1995 Marlins,25,11,.694
+carrch02,1996 Brewers,5,4,.556
+carrch02,1997 Brewers,1,0,1.000
+carrch02,1997 Astros,11,5,.688
+carrch02,Career,SB,CS,SB%
+carrch02,8 Years,144,52,.735
+reesepe01,Team,SB,CS,SB%
+reesepe01,1940 Dodgers,15,8,.652
+reesepe01,1941 Dodgers,10,6,.625
+reesepe01,1942 Dodgers,15,10,.600
+reesepe01,1946 Dodgers,10,12,.455
+reesepe01,1947 Dodgers,7,7,.500
+reesepe01,1948 Dodgers,25,3,.893
+reesepe01,1949 Dodgers,26,4,.867
+reesepe01,1950 Dodgers,17,4,.810
+reesepe01,1951 Dodgers,20,14,.588
+reesepe01,1952 Dodgers,30,5,.857
+reesepe01,1953 Dodgers,22,6,.786
+reesepe01,1954 Dodgers,8,5,.615
+reesepe01,1955 Dodgers,8,7,.533
+reesepe01,1956 Dodgers,13,4,.765
+reesepe01,1957 Dodgers,5,2,.714
+reesepe01,1958 Dodgers,1,2,.333
+reesepe01,Career,SB,CS,SB%
+reesepe01,16 Years,232,99,.701
+andreed01,Team,SB,CS,SB%
+andreed01,1884 Phillies,-,-,-
+andreed01,1885 Phillies,-,-,-
+andreed01,1886 Phillies,56,-,-
+andreed01,1887 Phillies,57,-,-
+andreed01,1888 Phillies,35,-,-
+andreed01,1889 Phillies,7,-,-
+andreed01,1889 Hoosiers,7,-,-
+andreed01,1890 Wonders,21,-,-
+andreed01,1891 Kelly's Killers,22,-,-
+andreed01,Career,SB,CS,SB%
+andreed01,8 Years,205,-,-
+bournmi01,Team,SB,CS,SB%
+bournmi01,2006 Phillies,1,2,.333
+bournmi01,2007 Phillies,18,1,.947
+bournmi01,2008 Astros,41,10,.804
+bournmi01,2009 Astros,61,12,.836
+bournmi01,2010 Astros,52,12,.813
+bournmi01,2011 Astros,39,7,.848
+bournmi01,2011 Braves,22,7,.759
+bournmi01,2012 Braves,42,13,.764
+bournmi01,2013 Indians,23,12,.657
+bournmi01,2014 Indians,10,6,.625
+bournmi01,2015 Indians,13,5,.722
+bournmi01,2015 Braves,4,2,.667
+bournmi01,2016 Diamondbacks,13,5,.722
+bournmi01,2016 Orioles,2,0,1.000
+bournmi01,Career,SB,CS,SB%
+bournmi01,11 Years,341,94,.784
+pierrju01,Team,SB,CS,SB%
+pierrju01,2000 Rockies,7,6,.538
+pierrju01,2001 Rockies,46,17,.730
+pierrju01,2002 Rockies,47,12,.797
+pierrju01,2003 Marlins,65,20,.765
+pierrju01,2004 Marlins,45,24,.652
+pierrju01,2005 Marlins,57,17,.770
+pierrju01,2006 Cubs,58,20,.744
+pierrju01,2007 Dodgers,64,15,.810
+pierrju01,2008 Dodgers,40,12,.769
+pierrju01,2009 Dodgers,30,12,.714
+pierrju01,2010 White Sox,68,18,.791
+pierrju01,2011 White Sox,27,17,.614
+pierrju01,2012 Phillies,37,7,.841
+pierrju01,2013 Marlins,23,6,.793
+pierrju01,Career,SB,CS,SB%
+pierrju01,14 Years,614,203,.752
+merriwh01,Team,SB,CS,SB%
+merriwh01,2016 Royals,8,3,.727
+merriwh01,2017 Royals,34,8,.810
+merriwh01,2018 Royals,45,10,.818
+merriwh01,2019 Royals,20,10,.667
+merriwh01,2020 Royals,12,3,.800
+merriwh01,2021 Royals,40,4,.909
+merriwh01,2022 Royals,15,3,.833
+merriwh01,2022 Blue Jays,1,2,.333
+merriwh01,2023 Blue Jays,26,10,.722
+merriwh01,2024 Phillies,11,1,.917
+merriwh01,2024 Braves,6,2,.750
+merriwh01,Career,SB,CS,SB%
+merriwh01,9 Years,218,56,.796
+careyma01,Team,SB,CS,SB%
+careyma01,1910 Pirates,0,-,-
+careyma01,1911 Pirates,27,-,-
+careyma01,1912 Pirates,45,22,.672
+careyma01,1913 Pirates,61,17,.782
+careyma01,1914 Pirates,38,20,.655
+careyma01,1915 Pirates,36,17,.679
+careyma01,1916 Pirates,63,19,.768
+careyma01,1917 Pirates,46,16,.742
+careyma01,1918 Pirates,58,20,.744
+careyma01,1919 Pirates,18,11,.621
+careyma01,1920 Pirates,52,10,.839
+careyma01,1921 Pirates,37,12,.755
+careyma01,1922 Pirates,51,2,.962
+careyma01,1923 Pirates,51,8,.864
+careyma01,1924 Pirates,49,13,.790
+careyma01,1925 Pirates,46,11,.807
+careyma01,1926 Pirates,10,5,.667
+careyma01,1926 Robins,0,2,.000
+careyma01,1927 Robins,32,7,.821
+careyma01,1928 Robins,18,3,.857
+careyma01,1929 Robins,0,0,.000
+careyma01,Career,SB,CS,SB%
+careyma01,20 Years,738,215,.774
+ashburi01,Team,SB,CS,SB%
+ashburi01,1948 Phillies,32,20,.615
+ashburi01,1949 Phillies,9,12,.429
+ashburi01,1950 Phillies,14,17,.452
+ashburi01,1951 Phillies,29,6,.829
+ashburi01,1952 Phillies,16,11,.593
+ashburi01,1953 Phillies,14,6,.700
+ashburi01,1954 Phillies,11,8,.579
+ashburi01,1955 Phillies,12,10,.545
+ashburi01,1956 Phillies,10,1,.909
+ashburi01,1957 Phillies,13,10,.565
+ashburi01,1958 Phillies,30,12,.714
+ashburi01,1959 Phillies,9,11,.450
+ashburi01,1960 Cubs,16,4,.800
+ashburi01,1961 Cubs,7,6,.538
+ashburi01,1962 Mets,12,7,.632
+ashburi01,Career,SB,CS,SB%
+ashburi01,15 Years,234,141,.624
+cruzon01,Team,SB,CS,SB%
+cruzon01,2021 Pirates,0,0,.000
+cruzon01,2022 Pirates,11,4,.733
+cruzon01,2023 Pirates,3,0,1.000
+cruzon01,2024 Pirates,22,1,.957
+cruzon01,2025 Pirates,38,5,.884
+cruzon01,Career,SB,CS,SB%
+cruzon01,5 Years,74,10,.881
+lefloro01,Team,SB,CS,SB%
+lefloro01,1974 Tigers,23,9,.719
+lefloro01,1975 Tigers,28,20,.583
+lefloro01,1976 Tigers,58,20,.744
+lefloro01,1977 Tigers,39,19,.672
+lefloro01,1978 Tigers,68,16,.810
+lefloro01,1979 Tigers,78,14,.848
+lefloro01,1980 Expos,97,19,.836
+lefloro01,1981 White Sox,36,11,.766
+lefloro01,1982 White Sox,28,14,.667
+lefloro01,Career,SB,CS,SB%
+lefloro01,9 Years,455,142,.762
+storytr01,Team,SB,CS,SB%
+storytr01,2016 Rockies,8,5,.615
+storytr01,2017 Rockies,7,2,.778
+storytr01,2018 Rockies,27,6,.818
+storytr01,2019 Rockies,23,8,.742
+storytr01,2020 Rockies,15,3,.833
+storytr01,2021 Rockies,20,6,.769
+storytr01,2022 Red Sox,13,0,1.000
+storytr01,2023 Red Sox,10,3,.769
+storytr01,2024 Red Sox,6,3,.667
+storytr01,2025 Red Sox,31,1,.969
+storytr01,Career,SB,CS,SB%
+storytr01,10 Years,160,37,.812
+mayswi01,Team,SB,CS,SB%
+mayswi01,1951 Giants,7,4,.636
+mayswi01,1952 Giants,4,1,.800
+mayswi01,1954 Giants,8,5,.615
+mayswi01,1955 Giants,24,4,.857
+mayswi01,1956 Giants,40,10,.800
+mayswi01,1957 Giants,38,19,.667
+mayswi01,1958 Giants,31,6,.838
+mayswi01,1959 Giants,27,4,.871
+mayswi01,1960 Giants,25,10,.714
+mayswi01,1961 Giants,18,9,.667
+mayswi01,1962 Giants,18,2,.900
+mayswi01,1963 Giants,8,3,.727
+mayswi01,1964 Giants,19,5,.792
+mayswi01,1965 Giants,9,4,.692
+mayswi01,1966 Giants,5,1,.833
+mayswi01,1967 Giants,6,0,1.000
+mayswi01,1968 Giants,12,6,.667
+mayswi01,1969 Giants,6,2,.750
+mayswi01,1970 Giants,5,0,1.000
+mayswi01,1971 Giants,23,3,.885
+mayswi01,1972 Giants,3,0,1.000
+mayswi01,1972 Mets,1,5,.167
+mayswi01,1973 Mets,1,0,1.000
+mayswi01,Career,SB,CS,SB%
+mayswi01,22 Years,338,103,.766
+turnetr01,Team,SB,CS,SB%
+turnetr01,2015 Nationals,2,2,.500
+turnetr01,2016 Nationals,33,6,.846
+turnetr01,2017 Nationals,46,8,.852
+turnetr01,2018 Nationals,43,9,.827
+turnetr01,2019 Nationals,35,5,.875
+turnetr01,2020 Nationals,12,4,.750
+turnetr01,2021 Nationals,21,3,.875
+turnetr01,2021 Dodgers,11,2,.846
+turnetr01,2022 Dodgers,27,3,.900
+turnetr01,2023 Phillies,30,0,1.000
+turnetr01,2024 Phillies,19,4,.826
+turnetr01,2025 Phillies,36,7,.837
+turnetr01,Career,SB,CS,SB%
+turnetr01,11 Years,315,53,.856
+taverfr01,Team,SB,CS,SB%
+taverfr01,1971 Pirates,0,0,.000
+taverfr01,1972 Pirates,0,0,.000
+taverfr01,1974 Pirates,13,4,.765
+taverfr01,1975 Pirates,17,6,.739
+taverfr01,1976 Pirates,58,11,.841
+taverfr01,1977 Pirates,70,18,.795
+taverfr01,1978 Pirates,46,25,.648
+taverfr01,1979 Pirates,2,1,.667
+taverfr01,1979 Mets,42,19,.689
+taverfr01,1980 Mets,32,18,.640
+taverfr01,1981 Mets,16,4,.800
+taverfr01,1982 Expos,4,0,1.000
+taverfr01,Career,SB,CS,SB%
+taverfr01,11 Years,300,106,.739
+verasqu01,Team,SB,CS,SB%
+verasqu01,1995 Marlins,56,21,.727
+verasqu01,1996 Marlins,8,8,.500
+verasqu01,1997 Padres,33,12,.733
+verasqu01,1998 Padres,24,9,.727
+verasqu01,1999 Padres,30,17,.638
+verasqu01,2000 Braves,25,12,.676
+verasqu01,2001 Braves,7,4,.636
+verasqu01,Career,SB,CS,SB%
+verasqu01,7 Years,183,83,.688
+jethrsa01,Team,SB,CS,SB%
+jethrsa01,1950 Braves,35,9,.795
+jethrsa01,1951 Braves,35,5,.875
+jethrsa01,1952 Braves,28,9,.757
+jethrsa01,1954 Pirates,0,0,.000
+jethrsa01,Career,SB,CS,SB%
+jethrsa01,4 Years,98,23,.810
+patekfr01,Team,SB,CS,SB%
+patekfr01,1968 Pirates,18,7,.720
+patekfr01,1969 Pirates,15,8,.652
+patekfr01,1970 Pirates,8,2,.800
+patekfr01,1971 Royals,49,14,.778
+patekfr01,1972 Royals,33,7,.825
+patekfr01,1973 Royals,36,14,.720
+patekfr01,1974 Royals,33,15,.688
+patekfr01,1975 Royals,32,7,.821
+patekfr01,1976 Royals,51,15,.773
+patekfr01,1977 Royals,53,13,.803
+patekfr01,1978 Royals,38,11,.776
+patekfr01,1979 Royals,11,12,.478
+patekfr01,1980 Angels,7,6,.538
+patekfr01,1981 Angels,1,0,1.000
+patekfr01,Career,SB,CS,SB%
+patekfr01,14 Years,385,131,.746
+crosefr01,Team,SB,CS,SB%
+crosefr01,1932 Yankees,3,2,.600
+crosefr01,1933 Yankees,4,1,.800
+crosefr01,1934 Yankees,5,6,.455
+crosefr01,1935 Yankees,3,1,.750
+crosefr01,1936 Yankees,18,7,.720
+crosefr01,1937 Yankees,13,7,.650
+crosefr01,1938 Yankees,27,12,.692
+crosefr01,1939 Yankees,11,7,.611
+crosefr01,1940 Yankees,14,8,.636
+crosefr01,1941 Yankees,0,2,.000
+crosefr01,1942 Yankees,1,1,.500
+crosefr01,1943 Yankees,4,4,.500
+crosefr01,1944 Yankees,3,0,1.000
+crosefr01,1945 Yankees,7,1,.875
+crosefr01,1946 Yankees,0,3,.000
+crosefr01,1947 Yankees,0,0,.000
+crosefr01,1948 Yankees,0,0,.000
+crosefr01,Career,SB,CS,SB%
+crosefr01,17 Years,113,62,.646
