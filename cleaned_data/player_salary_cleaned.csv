@@ -1,0 +1,1178 @@
+Player ID,Uniform Numbers,Salary,Year,Team
+brocklo01,24,4800.0,1961,Chicago Cubs
+brocklo01,24,8000.0,1962,Chicago Cubs
+brocklo01,24,9500.0,1963,Chicago Cubs
+brocklo01,24,12000.0,1964,Chicago Cubs
+brocklo01,20,20000.0,1964,St. Louis Cardinals
+brocklo01,20,27500.0,1965,St. Louis Cardinals
+brocklo01,20,40000.0,1966,St. Louis Cardinals
+brocklo01,20,65000.0,1967,St. Louis Cardinals
+brocklo01,20,70000.0,1968,St. Louis Cardinals
+brocklo01,20,80000.0,1969,St. Louis Cardinals
+brocklo01,20,85000.0,1970,St. Louis Cardinals
+brocklo01,20,110000.0,1971,St. Louis Cardinals
+brocklo01,20,110000.0,1972,St. Louis Cardinals
+brocklo01,20,110000.0,1973,St. Louis Cardinals
+brocklo01,20,135000.0,1974,St. Louis Cardinals
+brocklo01,20,180000.0,1975,St. Louis Cardinals
+brocklo01,20,185000.0,1976,St. Louis Cardinals
+brocklo01,20,150000.0,1977,St. Louis Cardinals
+brocklo01,20,140000.0,1978,St. Louis Cardinals
+brocklo01,20,125000.0,1979,St. Louis Cardinals
+stirnsn01,2,5500.0,1943,New York Yankees
+stirnsn01,2,8500.0,1944,New York Yankees
+stirnsn01,1,16000.0,1945,New York Yankees
+stirnsn01,1,16000.0,1946,New York Yankees
+stirnsn01,1,16000.0,1947,New York Yankees
+stirnsn01,1,16000.0,1948,New York Yankees
+stirnsn01,1,17500.0,1949,New York Yankees
+stirnsn01,1,17500.0,1950,New York Yankees
+stirnsn01,2,17500.0,1950,St. Louis Browns
+stirnsn01,5,15500.0,1951,Cleveland Indians
+stirnsn01,5,13000.0,1952,Cleveland Indians
+huntebr02,19,109000.0,1994,Houston Astros
+huntebr02,19,109000.0,1995,Houston Astros
+huntebr02,19,180000.0,1996,Houston Astros
+huntebr02,21,310000.0,1997,Detroit Tigers
+huntebr02,21,562500.0,1998,Detroit Tigers
+huntebr02,21,1750000.0,1999,Detroit Tigers
+huntebr02,22,1750000.0,1999,Seattle Mariners
+huntebr02,12,300000.0,2000,Colorado Rockies
+huntebr02,44,300000.0,2000,Cincinnati Reds
+huntebr02,12,900000.0,2001,Philadelphia Phillies
+huntebr02,21,1000000.0,2002,Houston Astros
+huntebr02,21,,2003,Houston Astros
+ricesa01,2,,1931,Washington Senators
+ricesa01,22,,1932,Washington Senators
+ricesa01,22,,1933,Washington Senators
+ricesa01,29,,1934,Cleveland Indians
+soriaal01,58,200000.0,1999,New York Yankees
+soriaal01,"53, 33",200000.0,2000,New York Yankees
+soriaal01,33,630000.0,2001,New York Yankees
+soriaal01,12,630000.0,2002,New York Yankees
+soriaal01,12,800000.0,2003,New York Yankees
+soriaal01,12,5400000.0,2004,Texas Rangers
+soriaal01,12,7500000.0,2005,Texas Rangers
+soriaal01,12,10000000.0,2006,Washington Nationals
+soriaal01,12,10000000.0,2007,Chicago Cubs
+soriaal01,12,14000000.0,2008,Chicago Cubs
+soriaal01,12,17000000.0,2009,Chicago Cubs
+soriaal01,12,19000000.0,2010,Chicago Cubs
+soriaal01,12,19000000.0,2011,Chicago Cubs
+soriaal01,12,18000000.0,2012,Chicago Cubs
+soriaal01,12,19000000.0,2013,Chicago Cubs
+soriaal01,12,19000000.0,2013,New York Yankees
+soriaal01,12,18000000.0,2014,New York Yankees
+vaughar01,21,,1932,Pittsburgh Pirates
+vaughar01,21,,1933,Pittsburgh Pirates
+vaughar01,21,,1934,Pittsburgh Pirates
+vaughar01,21,,1935,Pittsburgh Pirates
+vaughar01,21,,1936,Pittsburgh Pirates
+vaughar01,21,,1937,Pittsburgh Pirates
+vaughar01,21,,1938,Pittsburgh Pirates
+vaughar01,21,,1939,Pittsburgh Pirates
+vaughar01,21,,1940,Pittsburgh Pirates
+vaughar01,21,,1941,Pittsburgh Pirates
+vaughar01,5,,1942,Brooklyn Dodgers
+vaughar01,5,,1943,Brooklyn Dodgers
+vaughar01,9,,1947,Brooklyn Dodgers
+vaughar01,9,,1948,Brooklyn Dodgers
+colemvi01,29,60000.0,1985,St. Louis Cardinals
+colemvi01,29,150000.0,1986,St. Louis Cardinals
+colemvi01,29,160000.0,1987,St. Louis Cardinals
+colemvi01,29,700000.0,1988,St. Louis Cardinals
+colemvi01,29,775000.0,1989,St. Louis Cardinals
+colemvi01,29,1012500.0,1990,St. Louis Cardinals
+colemvi01,1,2312500.0,1991,New York Mets
+colemvi01,1,3112500.0,1992,New York Mets
+colemvi01,11,3212500.0,1993,New York Mets
+colemvi01,29,3312500.0,1994,Kansas City Royals
+colemvi01,29,250000.0,1995,Kansas City Royals
+colemvi01,29,250000.0,1995,Seattle Mariners
+colemvi01,30,500000.0,1996,Cincinnati Reds
+colemvi01,29,500000.0,1997,Detroit Tigers
+loftoke01,28,100000.0,1991,Houston Astros
+loftoke01,7,110000.0,1992,Cleveland Indians
+loftoke01,7,450000.0,1993,Cleveland Indians
+loftoke01,7,925000.0,1994,Cleveland Indians
+loftoke01,7,1925000.0,1995,Cleveland Indians
+loftoke01,7,3575000.0,1996,Cleveland Indians
+loftoke01,7,4825000.0,1997,Atlanta Braves
+loftoke01,7,7550000.0,1998,Cleveland Indians
+loftoke01,7,7550000.0,1999,Cleveland Indians
+loftoke01,7,7500000.0,2000,Cleveland Indians
+loftoke01,7,8000000.0,2001,Cleveland Indians
+loftoke01,1,1025000.0,2002,Chicago White Sox
+loftoke01,1,1025000.0,2002,San Francisco Giants
+loftoke01,7,1025000.0,2003,Pittsburgh Pirates
+loftoke01,7,1025000.0,2003,Chicago Cubs
+loftoke01,12,2985551.0,2004,New York Yankees
+loftoke01,7,2915908.0,2005,Philadelphia Phillies
+loftoke01,6,3826421.0,2006,Los Angeles Dodgers
+loftoke01,7,6000000.0,2007,Texas Rangers
+loftoke01,7,6000000.0,2007,Cleveland Indians
+galanau01,31,,1934,Chicago Cubs
+galanau01,51,,1935,Chicago Cubs
+galanau01,51,,1936,Chicago Cubs
+galanau01,7,,1937,Chicago Cubs
+galanau01,7,,1938,Chicago Cubs
+galanau01,7,,1939,Chicago Cubs
+galanau01,7,,1940,Chicago Cubs
+galanau01,7,,1941,Chicago Cubs
+galanau01,24,,1941,Brooklyn Dodgers
+galanau01,24,,1942,Brooklyn Dodgers
+galanau01,24,,1943,Brooklyn Dodgers
+galanau01,24,,1944,Brooklyn Dodgers
+galanau01,24,,1945,Brooklyn Dodgers
+galanau01,24,,1946,Brooklyn Dodgers
+galanau01,23,,1947,Cincinnati Reds
+galanau01,23,,1948,Cincinnati Reds
+galanau01,29,,1949,New York Giants
+galanau01,34,,1949,Philadelphia Athletics
+hackst01,31,,1932,Chicago Cubs
+hackst01,49,,1933,Chicago Cubs
+hackst01,34,,1934,Chicago Cubs
+hackst01,39,,1935,Chicago Cubs
+hackst01,39,,1936,Chicago Cubs
+hackst01,6,,1937,Chicago Cubs
+hackst01,6,,1938,Chicago Cubs
+hackst01,6,,1939,Chicago Cubs
+hackst01,6,,1940,Chicago Cubs
+hackst01,6,,1941,Chicago Cubs
+hackst01,6,,1942,Chicago Cubs
+hackst01,20,,1943,Chicago Cubs
+hackst01,25,,1944,Chicago Cubs
+hackst01,6,,1945,Chicago Cubs
+hackst01,6,,1946,Chicago Cubs
+hackst01,6,,1947,Chicago Cubs
+harpeto01,14,,1962,Cincinnati Reds
+harpeto01,17,,1963,Cincinnati Reds
+harpeto01,17,10000.0,1964,Cincinnati Reds
+harpeto01,17,,1965,Cincinnati Reds
+harpeto01,17,,1966,Cincinnati Reds
+harpeto01,17,25000.0,1967,Cincinnati Reds
+harpeto01,21,25000.0,1968,Cleveland Indians
+harpeto01,21,25000.0,1969,Seattle Pilots
+harpeto01,21,,1970,Milwaukee Brewers
+harpeto01,21,,1971,Milwaukee Brewers
+harpeto01,4,,1972,Boston Red Sox
+harpeto01,4,68000.0,1973,Boston Red Sox
+harpeto01,4,90000.0,1974,Boston Red Sox
+harpeto01,31,,1975,California Angels
+harpeto01,21,,1975,Oakland Athletics
+harpeto01,12,,1976,Baltimore Orioles
+campabe01,19,11500.0,1964,Kansas City Athletics
+campabe01,19,12500.0,1965,Kansas City Athletics
+campabe01,19,13500.0,1966,Kansas City Athletics
+campabe01,19,20000.0,1967,Kansas City Athletics
+campabe01,19,30000.0,1968,Oakland Athletics
+campabe01,19,35000.0,1969,Oakland Athletics
+campabe01,19,40000.0,1970,Oakland Athletics
+campabe01,19,56000.0,1971,Oakland Athletics
+campabe01,19,56000.0,1972,Oakland Athletics
+campabe01,19,65000.0,1973,Oakland Athletics
+campabe01,19,65000.0,1974,Oakland Athletics
+campabe01,19,100000.0,1975,Oakland Athletics
+campabe01,19,72000.0,1976,Oakland Athletics
+campabe01,19,190000.0,1977,Texas Rangers
+campabe01,19,190000.0,1978,Texas Rangers
+campabe01,19,190000.0,1979,Texas Rangers
+campabe01,19,190000.0,1979,California Angels
+campabe01,19,190000.0,1980,California Angels
+campabe01,19,190000.0,1981,California Angels
+campabe01,56,175000.0,1983,New York Yankees
+grissma02,9,68000.0,1989,Montreal Expos
+grissma02,9,103500.0,1990,Montreal Expos
+grissma02,9,100000.0,1991,Montreal Expos
+grissma02,9,300000.0,1992,Montreal Expos
+grissma02,9,1500000.0,1993,Montreal Expos
+grissma02,9,3575000.0,1994,Montreal Expos
+grissma02,9,4950000.0,1995,Atlanta Braves
+grissma02,9,4850000.0,1996,Atlanta Braves
+grissma02,17,4850000.0,1997,Cleveland Indians
+grissma02,9,5000000.0,1998,Milwaukee Brewers
+grissma02,9,5000000.0,1999,Milwaukee Brewers
+grissma02,9,5000000.0,2000,Milwaukee Brewers
+grissma02,9,5000000.0,2001,Los Angeles Dodgers
+grissma02,9,5000000.0,2002,Los Angeles Dodgers
+grissma02,9,1875000.0,2003,San Francisco Giants
+grissma02,9,2125000.0,2004,San Francisco Giants
+grissma02,9,2750000.0,2005,San Francisco Giants
+henderi01,"39, 35",21000.0,1979,Oakland Athletics
+henderi01,35,30000.0,1980,Oakland Athletics
+henderi01,35,185000.0,1981,Oakland Athletics
+henderi01,35,535000.0,1982,Oakland Athletics
+henderi01,35,800000.0,1983,Oakland Athletics
+henderi01,35,950000.0,1984,Oakland Athletics
+henderi01,24,1470000.0,1985,New York Yankees
+henderi01,24,1570000.0,1986,New York Yankees
+henderi01,24,1670000.0,1987,New York Yankees
+henderi01,24,1770000.0,1988,New York Yankees
+henderi01,24,2120000.0,1989,New York Yankees
+henderi01,"22, 24",2120000.0,1989,Oakland Athletics
+henderi01,24,2350000.0,1990,Oakland Athletics
+henderi01,24,3250000.0,1991,Oakland Athletics
+henderi01,24,3250000.0,1992,Oakland Athletics
+henderi01,24,3550000.0,1993,Oakland Athletics
+henderi01,"14, 24",3550000.0,1993,Toronto Blue Jays
+henderi01,24,4800000.0,1994,Oakland Athletics
+henderi01,24,3800000.0,1995,Oakland Athletics
+henderi01,24,3250000.0,1996,San Diego Padres
+henderi01,24,3045000.0,1997,San Diego Padres
+henderi01,24,3045000.0,1997,Anaheim Angels
+henderi01,24,1150000.0,1998,Oakland Athletics
+henderi01,24,1900000.0,1999,New York Mets
+henderi01,24,2000000.0,2000,New York Mets
+henderi01,35,2000000.0,2000,Seattle Mariners
+henderi01,24,300000.0,2001,San Diego Padres
+henderi01,35,350000.0,2002,Boston Red Sox
+henderi01,25,350000.0,2003,Los Angeles Dodgers
+troutmi01,27,414000.0,2011,Los Angeles Angels
+troutmi01,27,480000.0,2012,Los Angeles Angels
+troutmi01,27,510000.0,2013,Los Angeles Angels
+troutmi01,27,1000000.0,2014,Los Angeles Angels
+troutmi01,27,6083000.0,2015,Los Angeles Angels
+troutmi01,27,16083000.0,2016,Los Angeles Angels
+troutmi01,27,20083000.0,2017,Los Angeles Angels
+troutmi01,27,34083000.0,2018,Los Angeles Angels
+troutmi01,27,36833333.0,2019,Los Angeles Angels
+troutmi01,27,13936666.0,2020,Los Angeles Angels
+troutmi01,27,35450000.0,2021,Los Angeles Angels
+troutmi01,27,37116666.0,2022,Los Angeles Angels
+troutmi01,27,37116667.0,2023,Los Angeles Angels
+troutmi01,27,37116667.0,2024,Los Angeles Angels
+troutmi01,27,37116667.0,2025,Los Angeles Angels
+damonjo01,51,109000.0,1995,Kansas City Royals
+damonjo01,18,180000.0,1996,Kansas City Royals
+damonjo01,18,240000.0,1997,Kansas City Royals
+damonjo01,18,460000.0,1998,Kansas City Royals
+damonjo01,18,2100000.0,1999,Kansas City Royals
+damonjo01,18,4000000.0,2000,Kansas City Royals
+damonjo01,8,7100000.0,2001,Oakland Athletics
+damonjo01,18,7250000.0,2002,Boston Red Sox
+damonjo01,18,7500000.0,2003,Boston Red Sox
+damonjo01,18,8000000.0,2004,Boston Red Sox
+damonjo01,18,8250000.0,2005,Boston Red Sox
+damonjo01,18,13000000.0,2006,New York Yankees
+damonjo01,18,13000000.0,2007,New York Yankees
+damonjo01,18,13000000.0,2008,New York Yankees
+damonjo01,18,13000000.0,2009,New York Yankees
+damonjo01,18,8000000.0,2010,Detroit Tigers
+damonjo01,22,5250000.0,2011,Tampa Bay Rays
+damonjo01,33,1250000.0,2012,Cleveland Indians
+cabaljo01,76,720000.0,2023,Seattle Mariners
+cabaljo01,7,751700.0,2024,Tampa Bay Rays
+cabaljo01,77,776800.0,2025,Tampa Bay Rays
+cabaljo01,72,776800.0,2025,New York Yankees
+chapmbe01,7,4500.0,1930,New York Yankees
+chapmbe01,7,7500.0,1931,New York Yankees
+chapmbe01,6,12000.0,1932,New York Yankees
+chapmbe01,6,11000.0,1933,New York Yankees
+chapmbe01,7,11000.0,1934,New York Yankees
+chapmbe01,7,12000.0,1935,New York Yankees
+chapmbe01,7,10000.0,1936,New York Yankees
+chapmbe01,4,10000.0,1936,Washington Senators
+chapmbe01,4,13000.0,1937,Washington Senators
+chapmbe01,1,13000.0,1937,Boston Red Sox
+chapmbe01,9,12500.0,1938,Boston Red Sox
+chapmbe01,"2, 11",15000.0,1939,Cleveland Indians
+chapmbe01,"11, 44",15000.0,1940,Cleveland Indians
+chapmbe01,4,12000.0,1941,Washington Senators
+chapmbe01,45,12000.0,1941,Chicago White Sox
+chapmbe01,5,,1944,Brooklyn Dodgers
+chapmbe01,5,,1945,Brooklyn Dodgers
+chapmbe01,34,,1945,Philadelphia Phillies
+chapmbe01,7,,1946,Philadelphia Phillies
+aparilu01,11,6000.0,1956,Chicago White Sox
+aparilu01,11,12000.0,1957,Chicago White Sox
+aparilu01,11,18000.0,1958,Chicago White Sox
+aparilu01,11,25000.0,1959,Chicago White Sox
+aparilu01,11,18750.0,1960,Chicago White Sox
+aparilu01,11,28500.0,1961,Chicago White Sox
+aparilu01,11,35000.0,1962,Chicago White Sox
+aparilu01,11,35000.0,1963,Baltimore Orioles
+aparilu01,11,35000.0,1964,Baltimore Orioles
+aparilu01,11,40000.0,1965,Baltimore Orioles
+aparilu01,11,37500.0,1966,Baltimore Orioles
+aparilu01,11,50000.0,1967,Baltimore Orioles
+aparilu01,11,38000.0,1968,Chicago White Sox
+aparilu01,11,38000.0,1969,Chicago White Sox
+aparilu01,11,38000.0,1970,Chicago White Sox
+aparilu01,11,100000.0,1971,Boston Red Sox
+aparilu01,11,100000.0,1972,Boston Red Sox
+aparilu01,11,100000.0,1973,Boston Red Sox
+gordode01,9,425000.0,2011,Los Angeles Dodgers
+gordode01,9,485000.0,2012,Los Angeles Dodgers
+gordode01,9,501000.0,2013,Los Angeles Dodgers
+gordode01,9,515000.0,2014,Los Angeles Dodgers
+gordode01,9,2500000.0,2015,Miami Marlins
+gordode01,9,3300000.0,2016,Miami Marlins
+gordode01,9,7800000.0,2017,Miami Marlins
+gordode01,9,10800000.0,2018,Seattle Mariners
+gordode01,9,13300000.0,2019,Seattle Mariners
+gordode01,9,5106000.0,2020,Seattle Mariners
+gordode01,9,,2022,Washington Nationals
+mondera02,27,507500.0,2015,Kansas City Royals
+mondera02,27,508100.0,2016,Kansas City Royals
+mondera02,27,537250.0,2017,Kansas City Royals
+mondera02,27,550000.0,2018,Kansas City Royals
+mondera02,27,576000.0,2019,Kansas City Royals
+mondera02,27,223665.0,2020,Kansas City Royals
+mondera02,27,2525000.0,2021,Kansas City Royals
+mondera02,27,3000000.0,2022,Kansas City Royals
+crawfca02,8,200000.0,2002,Tampa Bay Devil Rays
+crawfca02,13,300000.0,2003,Tampa Bay Devil Rays
+crawfca02,13,320000.0,2004,Tampa Bay Devil Rays
+crawfca02,13,625000.0,2005,Tampa Bay Devil Rays
+crawfca02,13,2625000.0,2006,Tampa Bay Devil Rays
+crawfca02,13,4125000.0,2007,Tampa Bay Devil Rays
+crawfca02,13,5375000.0,2008,Tampa Bay Rays
+crawfca02,13,8250000.0,2009,Tampa Bay Rays
+crawfca02,13,10000000.0,2010,Tampa Bay Rays
+crawfca02,13,14000000.0,2011,Boston Red Sox
+crawfca02,13,20357142.0,2012,Boston Red Sox
+crawfca02,25,20000000.0,2013,Los Angeles Dodgers
+crawfca02,3,20250000.0,2014,Los Angeles Dodgers
+crawfca02,3,21357000.0,2015,Los Angeles Dodgers
+crawfca02,3,21607000.0,2016,Los Angeles Dodgers
+otisam01,25,,1967,New York Mets
+otisam01,25,,1969,New York Mets
+otisam01,26,,1970,Kansas City Royals
+otisam01,26,,1971,Kansas City Royals
+otisam01,26,,1972,Kansas City Royals
+otisam01,26,,1973,Kansas City Royals
+otisam01,26,,1974,Kansas City Royals
+otisam01,26,140000.0,1975,Kansas City Royals
+otisam01,26,155000.0,1976,Kansas City Royals
+otisam01,26,170000.0,1977,Kansas City Royals
+otisam01,26,,1978,Kansas City Royals
+otisam01,26,,1979,Kansas City Royals
+otisam01,26,,1980,Kansas City Royals
+otisam01,26,,1981,Kansas City Royals
+otisam01,26,,1982,Kansas City Royals
+otisam01,26,,1983,Kansas City Royals
+otisam01,26,,1984,Pittsburgh Pirates
+werbebi01,20,2700.0,1930,New York Yankees
+werbebi01,24,3500.0,1933,New York Yankees
+werbebi01,22,3500.0,1933,Boston Red Sox
+werbebi01,20,,1934,Boston Red Sox
+werbebi01,2,,1935,Boston Red Sox
+werbebi01,"2, 5",,1936,Boston Red Sox
+werbebi01,5,9000.0,1937,Philadelphia Athletics
+werbebi01,3,10000.0,1938,Philadelphia Athletics
+werbebi01,18,,1939,Cincinnati Reds
+werbebi01,18,,1940,Cincinnati Reds
+werbebi01,18,,1941,Cincinnati Reds
+werbebi01,1,13000.0,1942,New York Giants
+northbi01,25,12750.0,1971,Chicago Cubs
+northbi01,25,11000.0,1972,Chicago Cubs
+northbi01,4,20000.0,1973,Oakland Athletics
+northbi01,4,,1974,Oakland Athletics
+northbi01,4,,1975,Oakland Athletics
+northbi01,4,70000.0,1976,Oakland Athletics
+northbi01,4,82000.0,1977,Oakland Athletics
+northbi01,4,,1978,Oakland Athletics
+northbi01,4,,1978,Los Angeles Dodgers
+northbi01,36,,1979,San Francisco Giants
+northbi01,36,,1980,San Francisco Giants
+northbi01,36,,1981,San Francisco Giants
+jenseja01,40,,1950,New York Yankees
+jenseja01,"40, 27",,1951,New York Yankees
+jenseja01,25,,1952,New York Yankees
+jenseja01,8,,1952,Washington Senators
+jenseja01,4,,1953,Washington Senators
+jenseja01,30,,1954,Boston Red Sox
+jenseja01,4,,1955,Boston Red Sox
+jenseja01,4,,1956,Boston Red Sox
+jenseja01,4,,1957,Boston Red Sox
+jenseja01,4,,1958,Boston Red Sox
+jenseja01,4,38000.0,1959,Boston Red Sox
+jenseja01,4,40000.0,1961,Boston Red Sox
+mateojo01,3,208495.0,2020,San Diego Padres
+mateojo01,3,572000.0,2021,San Diego Padres
+mateojo01,26,572000.0,2021,Baltimore Orioles
+mateojo01,3,709500.0,2022,Baltimore Orioles
+mateojo01,3,2000000.0,2023,Baltimore Orioles
+mateojo01,3,2700000.0,2024,Baltimore Orioles
+mateojo01,3,3550000.0,2025,Baltimore Orioles
+villajo01,6,490000.0,2013,Houston Astros
+villajo01,"6, 2",503800.0,2014,Houston Astros
+villajo01,2,509400.0,2015,Houston Astros
+villajo01,5,512900.0,2016,Milwaukee Brewers
+villajo01,5,554500.0,2017,Milwaukee Brewers
+villajo01,5,2550000.0,2018,Milwaukee Brewers
+villajo01,"34, 2",2550000.0,2018,Baltimore Orioles
+villajo01,2,4825000.0,2019,Baltimore Orioles
+villajo01,2,3034000.0,2020,Miami Marlins
+villajo01,"20, 30",3034000.0,2020,Toronto Blue Jays
+villajo01,1,3550000.0,2021,New York Mets
+villajo01,24,4500000.0,2022,Chicago Cubs
+villajo01,19,4500000.0,2022,Los Angeles Angels
+ruizes01,43,700000.0,2022,San Diego Padres
+ruizes01,13,700000.0,2022,Milwaukee Brewers
+ruizes01,1,720000.0,2023,Oakland Athletics
+ruizes01,1,745250.0,2024,Oakland Athletics
+ruizes01,27,815000.0,2025,Los Angeles Dodgers
+delacel01,44,720000.0,2023,Cincinnati Reds
+delacel01,44,742500.0,2024,Cincinnati Reds
+delacel01,44,770000.0,2025,Cincinnati Reds
+reynoha01,18,35000.0,1983,Seattle Mariners
+reynoha01,4,40000.0,1984,Seattle Mariners
+reynoha01,24,60000.0,1985,Seattle Mariners
+reynoha01,19,85000.0,1986,Seattle Mariners
+reynoha01,4,122500.0,1987,Seattle Mariners
+reynoha01,4,200000.0,1988,Seattle Mariners
+reynoha01,4,635000.0,1989,Seattle Mariners
+reynoha01,4,966667.0,1990,Seattle Mariners
+reynoha01,4,1866666.0,1991,Seattle Mariners
+reynoha01,4,2166666.0,1992,Seattle Mariners
+reynoha01,"6, 25",1650000.0,1993,Baltimore Orioles
+reynoha01,3,230000.0,1994,California Angels
+tolanbo01,17,,1965,St. Louis Cardinals
+tolanbo01,17,,1966,St. Louis Cardinals
+tolanbo01,17,,1967,St. Louis Cardinals
+tolanbo01,17,,1968,St. Louis Cardinals
+tolanbo01,28,,1969,Cincinnati Reds
+tolanbo01,28,,1970,Cincinnati Reds
+tolanbo01,28,,1972,Cincinnati Reds
+tolanbo01,28,65000.0,1973,Cincinnati Reds
+tolanbo01,28,76000.0,1974,San Diego Padres
+tolanbo01,28,84000.0,1975,San Diego Padres
+tolanbo01,28,,1976,Philadelphia Phillies
+tolanbo01,28,,1977,Philadelphia Phillies
+tolanbo01,24,20000.0,1977,Pittsburgh Pirates
+tolanbo01,28,,1979,San Diego Padres
+cuyleki01,3,,1932,Chicago Cubs
+cuyleki01,3,,1933,Chicago Cubs
+cuyleki01,3,,1934,Chicago Cubs
+cuyleki01,3,,1935,Chicago Cubs
+cuyleki01,8,,1935,Cincinnati Reds
+cuyleki01,4,,1936,Cincinnati Reds
+cuyleki01,4,10000.0,1937,Cincinnati Reds
+cuyleki01,25,,1938,Brooklyn Dodgers
+rivermi01,3,12000.0,1970,California Angels
+rivermi01,5,12750.0,1971,California Angels
+rivermi01,5,13500.0,1972,California Angels
+rivermi01,"5, 17",25200.0,1973,California Angels
+rivermi01,17,35200.0,1974,California Angels
+rivermi01,17,55000.0,1975,California Angels
+rivermi01,17,100000.0,1976,New York Yankees
+rivermi01,17,133333.0,1977,New York Yankees
+rivermi01,17,133333.0,1978,New York Yankees
+rivermi01,17,133333.0,1979,New York Yankees
+rivermi01,17,,1979,Texas Rangers
+rivermi01,17,,1980,Texas Rangers
+rivermi01,17,,1981,Texas Rangers
+rivermi01,17,,1982,Texas Rangers
+rivermi01,17,,1983,Texas Rangers
+rivermi01,17,,1984,Texas Rangers
+lopesda01,15,13500.0,1972,Los Angeles Dodgers
+lopesda01,15,15000.0,1973,Los Angeles Dodgers
+lopesda01,15,25000.0,1974,Los Angeles Dodgers
+lopesda01,15,80000.0,1975,Los Angeles Dodgers
+lopesda01,15,115000.0,1976,Los Angeles Dodgers
+lopesda01,15,125000.0,1977,Los Angeles Dodgers
+lopesda01,15,135000.0,1978,Los Angeles Dodgers
+lopesda01,15,,1979,Los Angeles Dodgers
+lopesda01,15,,1980,Los Angeles Dodgers
+lopesda01,15,,1981,Los Angeles Dodgers
+lopesda01,15,325000.0,1982,Oakland Athletics
+lopesda01,15,350000.0,1983,Oakland Athletics
+lopesda01,15,450000.0,1984,Oakland Athletics
+lopesda01,12,450000.0,1984,Chicago Cubs
+lopesda01,15,490000.0,1985,Chicago Cubs
+lopesda01,15,490000.0,1986,Chicago Cubs
+lopesda01,11,490000.0,1986,Houston Astros
+lopesda01,15,550000.0,1987,Houston Astros
+crispco01,10,200000.0,2002,Cleveland Indians
+crispco01,10,300000.0,2003,Cleveland Indians
+crispco01,10,319400.0,2004,Cleveland Indians
+crispco01,10,364900.0,2005,Cleveland Indians
+crispco01,10,2750000.0,2006,Boston Red Sox
+crispco01,10,3833333.0,2007,Boston Red Sox
+crispco01,10,5083333.0,2008,Boston Red Sox
+crispco01,2,6083333.0,2009,Kansas City Royals
+crispco01,4,5000000.0,2010,Oakland Athletics
+crispco01,4,5750000.0,2011,Oakland Athletics
+crispco01,4,6000000.0,2012,Oakland Athletics
+crispco01,4,7000000.0,2013,Oakland Athletics
+crispco01,4,7500000.0,2014,Oakland Athletics
+crispco01,4,11000000.0,2015,Oakland Athletics
+crispco01,4,11000000.0,2016,Oakland Athletics
+crispco01,4,11000000.0,2016,Cleveland Indians
+altuvjo01,27,414000.0,2011,Houston Astros
+altuvjo01,27,483000.0,2012,Houston Astros
+altuvjo01,27,505700.0,2013,Houston Astros
+altuvjo01,27,1250000.0,2014,Houston Astros
+altuvjo01,27,2500000.0,2015,Houston Astros
+altuvjo01,27,3500000.0,2016,Houston Astros
+altuvjo01,27,4500000.0,2017,Houston Astros
+altuvjo01,27,9000000.0,2018,Houston Astros
+altuvjo01,27,9500000.0,2019,Houston Astros
+altuvjo01,27,10730000.0,2020,Houston Astros
+altuvjo01,27,26000000.0,2021,Houston Astros
+altuvjo01,27,29000000.0,2022,Houston Astros
+altuvjo01,27,29000000.0,2023,Houston Astros
+altuvjo01,27,29000000.0,2024,Houston Astros
+altuvjo01,27,33000000.0,2025,Houston Astros
+freylo01,11,,1933,Brooklyn Dodgers
+freylo01,8,,1934,Brooklyn Dodgers
+freylo01,8,,1935,Brooklyn Dodgers
+freylo01,8,,1936,Brooklyn Dodgers
+freylo01,15,,1937,Chicago Cubs
+freylo01,47,,1938,Cincinnati Reds
+freylo01,11,,1939,Cincinnati Reds
+freylo01,11,,1940,Cincinnati Reds
+freylo01,11,,1941,Cincinnati Reds
+freylo01,11,,1942,Cincinnati Reds
+freylo01,11,,1943,Cincinnati Reds
+freylo01,11,,1946,Cincinnati Reds
+freylo01,22,,1947,Chicago Cubs
+freylo01,14,,1947,New York Yankees
+freylo01,14,,1948,New York Yankees
+freylo01,28,,1948,New York Giants
+wilsowi02,19,19000.0,1976,Kansas City Royals
+wilsowi02,32,19800.0,1977,Kansas City Royals
+wilsowi02,6,23200.0,1978,Kansas City Royals
+wilsowi02,6,26100.0,1979,Kansas City Royals
+wilsowi02,6,185000.0,1980,Kansas City Royals
+wilsowi02,6,185000.0,1981,Kansas City Royals
+wilsowi02,6,450000.0,1982,Kansas City Royals
+wilsowi02,6,460000.0,1983,Kansas City Royals
+wilsowi02,6,470000.0,1984,Kansas City Royals
+wilsowi02,6,843750.0,1985,Kansas City Royals
+wilsowi02,6,1175000.0,1986,Kansas City Royals
+wilsowi02,6,1389706.0,1987,Kansas City Royals
+wilsowi02,6,1383712.0,1988,Kansas City Royals
+wilsowi02,6,2112205.0,1989,Kansas City Royals
+wilsowi02,6,800000.0,1990,Kansas City Royals
+wilsowi02,16,1000000.0,1991,Oakland Athletics
+wilsowi02,6,1100000.0,1992,Oakland Athletics
+wilsowi02,6,700000.0,1993,Chicago Cubs
+wilsowi02,6,700000.0,1994,Chicago Cubs
+younger03,3,400000.0,2009,Colorado Rockies
+younger03,3,408000.0,2010,Colorado Rockies
+younger03,1,414000.0,2011,Colorado Rockies
+younger03,1,481000.0,2012,Colorado Rockies
+younger03,1,492000.0,2013,Colorado Rockies
+younger03,22,492000.0,2013,New York Mets
+younger03,22,1850000.0,2014,New York Mets
+younger03,4,1000000.0,2015,Atlanta Braves
+younger03,1,1000000.0,2015,New York Mets
+younger03,48,900000.0,2016,New York Yankees
+younger03,8,850000.0,2017,Los Angeles Angels
+younger03,9,850000.0,2018,Los Angeles Angels
+figgich01,6,200000.0,2002,Anaheim Angels
+figgich01,6,300000.0,2003,Anaheim Angels
+figgich01,9,320000.0,2004,Anaheim Angels
+figgich01,9,390000.0,2005,Los Angeles Angels
+figgich01,9,2250000.0,2006,Los Angeles Angels
+figgich01,9,3500000.0,2007,Los Angeles Angels
+figgich01,9,4750000.0,2008,Los Angeles Angels
+figgich01,9,5775000.0,2009,Los Angeles Angels
+figgich01,9,8500000.0,2010,Seattle Mariners
+figgich01,9,9500000.0,2011,Seattle Mariners
+figgich01,9,9000000.0,2012,Seattle Mariners
+figgich01,18,8000000.0,2014,Los Angeles Dodgers
+gehrich01,3,12500.0,1931,Detroit Tigers
+gehrich01,2,10000.0,1932,Detroit Tigers
+gehrich01,2,10000.0,1933,Detroit Tigers
+gehrich01,2,10000.0,1934,Detroit Tigers
+gehrich01,2,12500.0,1935,Detroit Tigers
+gehrich01,2,12500.0,1936,Detroit Tigers
+gehrich01,2,17500.0,1937,Detroit Tigers
+gehrich01,2,20000.0,1938,Detroit Tigers
+gehrich01,2,20000.0,1939,Detroit Tigers
+gehrich01,2,20000.0,1940,Detroit Tigers
+gehrich01,2,20000.0,1941,Detroit Tigers
+gehrich01,2,10000.0,1942,Detroit Tigers
+suzukic01,51,5666667.0,2001,Seattle Mariners
+suzukic01,51,3696000.0,2002,Seattle Mariners
+suzukic01,51,4697000.0,2003,Seattle Mariners
+suzukic01,51,6528000.0,2004,Seattle Mariners
+suzukic01,51,12529000.0,2005,Seattle Mariners
+suzukic01,51,12530000.0,2006,Seattle Mariners
+suzukic01,51,12531000.0,2007,Seattle Mariners
+suzukic01,51,17102149.0,2008,Seattle Mariners
+suzukic01,51,18000000.0,2009,Seattle Mariners
+suzukic01,51,18000000.0,2010,Seattle Mariners
+suzukic01,51,18000000.0,2011,Seattle Mariners
+suzukic01,51,17000000.0,2012,Seattle Mariners
+suzukic01,31,17000000.0,2012,New York Yankees
+suzukic01,31,6500000.0,2013,New York Yankees
+suzukic01,31,6500000.0,2014,New York Yankees
+suzukic01,51,2000000.0,2015,Miami Marlins
+suzukic01,51,2000000.0,2016,Miami Marlins
+suzukic01,51,2000000.0,2017,Miami Marlins
+suzukic01,51,750000.0,2018,Seattle Mariners
+suzukic01,51,100000.0,2019,Seattle Mariners
+dillibo01,2,,1946,St. Louis Browns
+dillibo01,6,,1947,St. Louis Browns
+dillibo01,6,,1948,St. Louis Browns
+dillibo01,6,,1949,St. Louis Browns
+dillibo01,6,,1950,Philadelphia Athletics
+dillibo01,3,,1950,Pittsburgh Pirates
+dillibo01,3,,1951,Pittsburgh Pirates
+dillibo01,25,,1951,Chicago White Sox
+laryly01,24,7000.0,1929,New York Yankees
+laryly01,24,7500.0,1930,New York Yankees
+laryly01,2,9000.0,1931,New York Yankees
+laryly01,2,9000.0,1932,New York Yankees
+laryly01,2,8000.0,1933,New York Yankees
+laryly01,22,7500.0,1934,New York Yankees
+laryly01,21,7500.0,1934,Boston Red Sox
+laryly01,28,8000.0,1935,Washington Senators
+laryly01,1,8000.0,1935,St. Louis Browns
+laryly01,1,9000.0,1936,St. Louis Browns
+laryly01,1,10000.0,1937,Cleveland Indians
+laryly01,1,12000.0,1938,Cleveland Indians
+laryly01,11,9000.0,1939,Cleveland Indians
+laryly01,26,9000.0,1939,Brooklyn Dodgers
+laryly01,2,9000.0,1939,St. Louis Cardinals
+laryly01,3,6500.0,1940,St. Louis Browns
+dimagdo01,7,5300.0,1940,Boston Red Sox
+dimagdo01,7,10000.0,1941,Boston Red Sox
+dimagdo01,7,10000.0,1942,Boston Red Sox
+dimagdo01,7,15000.0,1946,Boston Red Sox
+dimagdo01,7,30000.0,1947,Boston Red Sox
+dimagdo01,7,27500.0,1948,Boston Red Sox
+dimagdo01,7,30000.0,1949,Boston Red Sox
+dimagdo01,7,40000.0,1950,Boston Red Sox
+dimagdo01,7,40000.0,1951,Boston Red Sox
+dimagdo01,7,40000.0,1952,Boston Red Sox
+dimagdo01,7,36000.0,1953,Boston Red Sox
+schoere01,6,4800.0,1945,St. Louis Cardinals
+schoere01,2,5500.0,1946,St. Louis Cardinals
+schoere01,2,9000.0,1947,St. Louis Cardinals
+schoere01,2,12000.0,1948,St. Louis Cardinals
+schoere01,2,16000.0,1949,St. Louis Cardinals
+schoere01,2,20000.0,1950,St. Louis Cardinals
+schoere01,2,23500.0,1951,St. Louis Cardinals
+schoere01,2,27000.0,1952,St. Louis Cardinals
+schoere01,2,31000.0,1953,St. Louis Cardinals
+schoere01,2,45000.0,1954,St. Louis Cardinals
+schoere01,2,45000.0,1955,St. Louis Cardinals
+schoere01,2,42000.0,1956,St. Louis Cardinals
+schoere01,10,42000.0,1956,New York Giants
+schoere01,7,42000.0,1957,New York Giants
+schoere01,4,42000.0,1957,Milwaukee Braves
+schoere01,4,46000.0,1958,Milwaukee Braves
+schoere01,4,40000.0,1959,Milwaukee Braves
+schoere01,4,37500.0,1960,Milwaukee Braves
+schoere01,2,30000.0,1961,St. Louis Cardinals
+schoere01,2,18000.0,1962,St. Louis Cardinals
+schoere01,2,15000.0,1963,St. Louis Cardinals
+smithma05,17,,2016,Atlanta Braves
+smithma05,0,,2017,Tampa Bay Rays
+smithma05,0,,2018,Tampa Bay Rays
+smithma05,0,578400.0,2019,Seattle Mariners
+smithma05,0,869500.0,2020,Seattle Mariners
+myerbu01,1,9000.0,1931,Washington Senators
+myerbu01,1,8750.0,1932,Washington Senators
+myerbu01,1,8000.0,1933,Washington Senators
+myerbu01,1,8500.0,1934,Washington Senators
+myerbu01,1,9500.0,1935,Washington Senators
+myerbu01,1,14000.0,1936,Washington Senators
+myerbu01,1,9500.0,1937,Washington Senators
+myerbu01,1,8500.0,1938,Washington Senators
+myerbu01,1,11500.0,1939,Washington Senators
+myerbu01,1,8000.0,1940,Washington Senators
+myerbu01,1,8000.0,1941,Washington Senators
+willsma01,30,11000.0,1959,Los Angeles Dodgers
+willsma01,30,12000.0,1960,Los Angeles Dodgers
+willsma01,30,32000.0,1961,Los Angeles Dodgers
+willsma01,30,35000.0,1962,Los Angeles Dodgers
+willsma01,30,45000.0,1963,Los Angeles Dodgers
+willsma01,30,50000.0,1964,Los Angeles Dodgers
+willsma01,30,50000.0,1965,Los Angeles Dodgers
+willsma01,30,85000.0,1966,Los Angeles Dodgers
+willsma01,30,75000.0,1967,Pittsburgh Pirates
+willsma01,30,80000.0,1968,Pittsburgh Pirates
+willsma01,30,85000.0,1969,Montreal Expos
+willsma01,30,85000.0,1969,Los Angeles Dodgers
+willsma01,30,88000.0,1970,Los Angeles Dodgers
+willsma01,30,92000.0,1971,Los Angeles Dodgers
+willsma01,30,100000.0,1972,Los Angeles Dodgers
+biggicr01,4,73500.0,1988,Houston Astros
+biggicr01,7,78000.0,1989,Houston Astros
+biggicr01,7,240000.0,1990,Houston Astros
+biggicr01,7,437500.0,1991,Houston Astros
+biggicr01,7,1425000.0,1992,Houston Astros
+biggicr01,7,3050000.0,1993,Houston Astros
+biggicr01,7,3500000.0,1994,Houston Astros
+biggicr01,7,4725000.0,1995,Houston Astros
+biggicr01,7,2075000.0,1996,Houston Astros
+biggicr01,7,6280000.0,1997,Houston Astros
+biggicr01,7,6145000.0,1998,Houston Astros
+biggicr01,7,6060000.0,1999,Houston Astros
+biggicr01,7,6750000.0,2000,Houston Astros
+biggicr01,7,7750000.0,2001,Houston Astros
+biggicr01,7,8750000.0,2002,Houston Astros
+biggicr01,7,9750000.0,2003,Houston Astros
+biggicr01,7,3000000.0,2004,Houston Astros
+biggicr01,7,3000000.0,2005,Houston Astros
+biggicr01,7,4000000.0,2006,Houston Astros
+biggicr01,7,5150000.0,2007,Houston Astros
+morenom01,24,15000.0,1975,Pittsburgh Pirates
+morenom01,18,19000.0,1976,Pittsburgh Pirates
+morenom01,18,25000.0,1977,Pittsburgh Pirates
+morenom01,18,,1978,Pittsburgh Pirates
+morenom01,18,,1979,Pittsburgh Pirates
+morenom01,18,,1980,Pittsburgh Pirates
+morenom01,18,,1981,Pittsburgh Pirates
+morenom01,18,,1982,Pittsburgh Pirates
+morenom01,24,,1983,Houston Astros
+morenom01,22,,1983,New York Yankees
+morenom01,22,731855.0,1984,New York Yankees
+morenom01,22,,1985,New York Yankees
+morenom01,28,,1985,Kansas City Royals
+morenom01,18,100000.0,1986,Atlanta Braves
+younger01,21,109000.0,1992,Los Angeles Dodgers
+younger01,21,120000.0,1993,Colorado Rockies
+younger01,21,205000.0,1994,Colorado Rockies
+younger01,21,252500.0,1995,Colorado Rockies
+younger01,21,1125000.0,1996,Colorado Rockies
+younger01,21,3200000.0,1997,Colorado Rockies
+younger01,26,3200000.0,1997,Los Angeles Dodgers
+younger01,21,4500000.0,1998,Los Angeles Dodgers
+younger01,21,4500000.0,1999,Los Angeles Dodgers
+younger01,7,4500000.0,2000,Chicago Cubs
+younger01,7,4500000.0,2001,Chicago Cubs
+younger01,7,2000000.0,2002,Milwaukee Brewers
+younger01,7,2000000.0,2003,Milwaukee Brewers
+younger01,21,2000000.0,2003,San Francisco Giants
+younger01,7,1000000.0,2004,Texas Rangers
+younger01,7,850000.0,2005,San Diego Padres
+younger01,7,850000.0,2006,San Diego Padres
+younger01,2,850000.0,2006,Texas Rangers
+reyesjo01,7,300000.0,2003,New York Mets
+reyesjo01,7,307500.0,2004,New York Mets
+reyesjo01,7,332000.0,2005,New York Mets
+reyesjo01,7,401500.0,2006,New York Mets
+reyesjo01,7,2875000.0,2007,New York Mets
+reyesjo01,7,4375000.0,2008,New York Mets
+reyesjo01,7,6125000.0,2009,New York Mets
+reyesjo01,7,9375000.0,2010,New York Mets
+reyesjo01,7,11000000.0,2011,New York Mets
+reyesjo01,7,10000000.0,2012,Miami Marlins
+reyesjo01,7,10000000.0,2013,Toronto Blue Jays
+reyesjo01,7,16000000.0,2014,Toronto Blue Jays
+reyesjo01,7,22000000.0,2015,Toronto Blue Jays
+reyesjo01,7,22000000.0,2015,Colorado Rockies
+reyesjo01,7,22000000.0,2016,New York Mets
+reyesjo01,7,22000000.0,2017,New York Mets
+reyesjo01,7,2000000.0,2018,New York Mets
+riverji01,7,,1952,St. Louis Browns
+riverji01,39,,1952,Chicago White Sox
+riverji01,7,,1953,Chicago White Sox
+riverji01,7,,1954,Chicago White Sox
+riverji01,7,,1955,Chicago White Sox
+riverji01,7,,1956,Chicago White Sox
+riverji01,7,,1957,Chicago White Sox
+riverji01,7,,1958,Chicago White Sox
+riverji01,7,,1959,Chicago White Sox
+riverji01,7,,1960,Chicago White Sox
+riverji01,7,,1961,Chicago White Sox
+riverji01,10,,1961,Kansas City Athletics
+taverwi01,1,300000.0,2004,Houston Astros
+taverwi01,1,316000.0,2005,Houston Astros
+taverwi01,1,400000.0,2006,Houston Astros
+taverwi01,3,402000.0,2007,Colorado Rockies
+taverwi01,3,1975000.0,2008,Colorado Rockies
+taverwi01,3,2250000.0,2009,Cincinnati Reds
+taverwi01,3,,2010,Washington Nationals
+womacto01,51,109000.0,1993,Pittsburgh Pirates
+womacto01,51,111000.0,1994,Pittsburgh Pirates
+womacto01,51,125000.0,1996,Pittsburgh Pirates
+womacto01,5,160000.0,1997,Pittsburgh Pirates
+womacto01,5,290000.0,1998,Pittsburgh Pirates
+womacto01,5,1650000.0,1999,Arizona Diamondbacks
+womacto01,5,2500000.0,2000,Arizona Diamondbacks
+womacto01,5,4000000.0,2001,Arizona Diamondbacks
+womacto01,5,4500000.0,2002,Arizona Diamondbacks
+womacto01,5,6000000.0,2003,Arizona Diamondbacks
+womacto01,5,6000000.0,2003,Colorado Rockies
+womacto01,5,6000000.0,2003,Chicago Cubs
+womacto01,4,3000000.0,2004,St. Louis Cardinals
+womacto01,12,2000000.0,2005,New York Yankees
+womacto01,15,2000000.0,2006,Cincinnati Reds
+womacto01,1,2000000.0,2006,Chicago Cubs
+podsesc01,"9, 20",200000.0,2001,Seattle Mariners
+podsesc01,20,200000.0,2002,Seattle Mariners
+podsesc01,20,300000.0,2003,Milwaukee Brewers
+podsesc01,20,400000.0,2004,Milwaukee Brewers
+podsesc01,22,700000.0,2005,Chicago White Sox
+podsesc01,22,2125000.0,2006,Chicago White Sox
+podsesc01,22,2900000.0,2007,Chicago White Sox
+podsesc01,"29, 22",750000.0,2008,Colorado Rockies
+podsesc01,"1, 22",500000.0,2009,Chicago White Sox
+podsesc01,22,1650000.0,2010,Kansas City Royals
+podsesc01,21,1650000.0,2010,Los Angeles Dodgers
+podsesc01,26,1250000.0,2012,Boston Red Sox
+casege01,25,,1937,Washington Senators
+casege01,25,,1938,Washington Senators
+casege01,6,,1939,Washington Senators
+casege01,6,,1940,Washington Senators
+casege01,10,,1941,Washington Senators
+casege01,1,,1942,Washington Senators
+casege01,1,,1943,Washington Senators
+casege01,1,,1944,Washington Senators
+casege01,1,,1945,Washington Senators
+casege01,"15, 7",,1946,Cleveland Indians
+casege01,1,,1947,Washington Senators
+acunaro01,13,545000.0,2018,Atlanta Braves
+acunaro01,13,560000.0,2019,Atlanta Braves
+acunaro01,13,370000.0,2020,Atlanta Braves
+acunaro01,13,5000000.0,2021,Atlanta Braves
+acunaro01,13,15000000.0,2022,Atlanta Braves
+acunaro01,13,17000000.0,2023,Atlanta Braves
+acunaro01,13,17000000.0,2024,Atlanta Braves
+acunaro01,13,17000000.0,2025,Atlanta Braves
+bertijo01,64,545000.0,2018,Toronto Blue Jays
+bertijo01,55,557500.0,2019,Miami Marlins
+bertijo01,5,215710.0,2020,Miami Marlins
+bertijo01,5,607500.0,2021,Miami Marlins
+bertijo01,5,1200000.0,2022,Miami Marlins
+bertijo01,5,2100000.0,2023,Miami Marlins
+bertijo01,19,3625000.0,2024,New York Yankees
+bertijo01,5,2000000.0,2025,Chicago Cubs
+kleinch01,3,17500.0,1932,Philadelphia Phillies
+kleinch01,3,17500.0,1933,Philadelphia Phillies
+kleinch01,6,30000.0,1934,Chicago Cubs
+kleinch01,4,17289.0,1935,Chicago Cubs
+kleinch01,4,12500.0,1936,Chicago Cubs
+kleinch01,"32, 36",12500.0,1936,Philadelphia Phillies
+kleinch01,36,11000.0,1937,Philadelphia Phillies
+kleinch01,1,,1938,Philadelphia Phillies
+kleinch01,26,8500.0,1939,Philadelphia Phillies
+kleinch01,14,8500.0,1939,Pittsburgh Pirates
+kleinch01,29,,1940,Philadelphia Phillies
+kleinch01,29,,1941,Philadelphia Phillies
+kleinch01,3,,1942,Philadelphia Phillies
+kleinch01,8,,1943,Philadelphia Phillies
+kleinch01,26,,1944,Philadelphia Phillies
+murtada01,16,,1941,Philadelphia Phillies
+murtada01,27,,1942,Philadelphia Phillies
+murtada01,1,,1943,Philadelphia Phillies
+murtada01,9,,1946,Philadelphia Phillies
+murtada01,15,,1947,Boston Braves
+murtada01,7,,1948,Pittsburgh Pirates
+murtada01,7,,1949,Pittsburgh Pirates
+murtada01,7,16000.0,1950,Pittsburgh Pirates
+murtada01,7,18000.0,1951,Pittsburgh Pirates
+robinja02,42,5000.0,1947,Brooklyn Dodgers
+robinja02,42,12000.0,1948,Brooklyn Dodgers
+robinja02,42,17500.0,1949,Brooklyn Dodgers
+robinja02,42,35000.0,1950,Brooklyn Dodgers
+robinja02,42,39750.0,1951,Brooklyn Dodgers
+robinja02,42,42000.0,1952,Brooklyn Dodgers
+robinja02,42,38000.0,1953,Brooklyn Dodgers
+robinja02,42,39500.0,1954,Brooklyn Dodgers
+robinja02,42,35000.0,1955,Brooklyn Dodgers
+robinja02,42,31500.0,1956,Brooklyn Dodgers
+barrejo01,18,,1942,Pittsburgh Pirates
+barrejo01,18,,1943,Pittsburgh Pirates
+barrejo01,18,,1944,Pittsburgh Pirates
+barrejo01,18,,1945,Pittsburgh Pirates
+barrejo01,18,,1946,Pittsburgh Pirates
+barrejo01,2,,1946,Boston Braves
+mcmanma01,5,,1931,Detroit Tigers
+mcmanma01,28,,1931,Boston Red Sox
+mcmanma01,3,,1932,Boston Red Sox
+mcmanma01,2,,1933,Boston Red Sox
+mcmanma01,28,,1934,Boston Braves
+raineti01,32,21000.0,1979,Montreal Expos
+raineti01,30,32500.0,1980,Montreal Expos
+raineti01,30,35000.0,1981,Montreal Expos
+raineti01,30,200000.0,1982,Montreal Expos
+raineti01,30,250000.0,1983,Montreal Expos
+raineti01,30,790000.0,1984,Montreal Expos
+raineti01,30,1200000.0,1985,Montreal Expos
+raineti01,30,1515000.0,1986,Montreal Expos
+raineti01,30,1666333.0,1987,Montreal Expos
+raineti01,30,1666333.0,1988,Montreal Expos
+raineti01,30,2104889.0,1989,Montreal Expos
+raineti01,30,2055555.0,1990,Montreal Expos
+raineti01,30,3500000.0,1991,Chicago White Sox
+raineti01,30,3500000.0,1992,Chicago White Sox
+raineti01,30,3500000.0,1993,Chicago White Sox
+raineti01,30,3650000.0,1994,Chicago White Sox
+raineti01,30,3700000.0,1995,Chicago White Sox
+raineti01,31,2100000.0,1996,New York Yankees
+raineti01,31,1703644.0,1997,New York Yankees
+raineti01,31,1300000.0,1998,New York Yankees
+raineti01,30,600000.0,1999,Oakland Athletics
+raineti01,30,350000.0,2001,Montreal Expos
+raineti01,"11, 30",350000.0,2001,Baltimore Orioles
+raineti01,"32, 30",350000.0,2002,Florida Marlins
+castilu01,34,109000.0,1996,Florida Marlins
+castilu01,1,154000.0,1997,Florida Marlins
+castilu01,1,200000.0,1998,Florida Marlins
+castilu01,1,225000.0,1999,Florida Marlins
+castilu01,1,390000.0,2000,Florida Marlins
+castilu01,1,2200000.0,2001,Florida Marlins
+castilu01,1,3325000.0,2002,Florida Marlins
+castilu01,1,4850000.0,2003,Florida Marlins
+castilu01,1,4666667.0,2004,Florida Marlins
+castilu01,1,4985537.0,2005,Florida Marlins
+castilu01,1,5485548.0,2006,Minnesota Twins
+castilu01,1,5750000.0,2007,Minnesota Twins
+castilu01,1,5750000.0,2007,New York Mets
+castilu01,1,6250000.0,2008,New York Mets
+castilu01,1,6250000.0,2009,New York Mets
+castilu01,1,6250000.0,2010,New York Mets
+ellsbja01,46,380000.0,2007,Boston Red Sox
+ellsbja01,46,406000.0,2008,Boston Red Sox
+ellsbja01,46,449500.0,2009,Boston Red Sox
+ellsbja01,2,496500.0,2010,Boston Red Sox
+ellsbja01,2,2400000.0,2011,Boston Red Sox
+ellsbja01,2,8050000.0,2012,Boston Red Sox
+ellsbja01,2,9000000.0,2013,Boston Red Sox
+ellsbja01,22,21142857.0,2014,New York Yankees
+ellsbja01,22,21142857.0,2015,New York Yankees
+ellsbja01,22,21142857.0,2016,New York Yankees
+ellsbja01,22,21142857.0,2017,New York Yankees
+davisra01,10,327000.0,2006,Pittsburgh Pirates
+davisra01,10,380000.0,2007,Pittsburgh Pirates
+davisra01,28,380000.0,2007,San Francisco Giants
+davisra01,28,390000.0,2008,San Francisco Giants
+davisra01,38,390000.0,2008,Oakland Athletics
+davisra01,11,410000.0,2009,Oakland Athletics
+davisra01,11,1350000.0,2010,Oakland Athletics
+davisra01,11,2500000.0,2011,Toronto Blue Jays
+davisra01,11,2750000.0,2012,Toronto Blue Jays
+davisra01,11,2500000.0,2013,Toronto Blue Jays
+davisra01,20,5000000.0,2014,Detroit Tigers
+davisra01,20,5000000.0,2015,Detroit Tigers
+davisra01,20,5250000.0,2016,Cleveland Indians
+davisra01,11,6000000.0,2017,Oakland Athletics
+davisra01,25,6000000.0,2017,Boston Red Sox
+davisra01,26,1750000.0,2018,Cleveland Indians
+davisra01,18,,2019,New York Mets
+reisepe01,34,,1940,Brooklyn Dodgers
+reisepe01,27,,1941,Brooklyn Dodgers
+reisepe01,27,7500.0,1942,Brooklyn Dodgers
+reisepe01,27,,1946,Brooklyn Dodgers
+reisepe01,7,,1947,Brooklyn Dodgers
+reisepe01,7,,1948,Brooklyn Dodgers
+reisepe01,11,,1949,Boston Braves
+reisepe01,11,,1950,Boston Braves
+reisepe01,27,,1951,Pittsburgh Pirates
+reisepe01,23,,1952,Cleveland Indians
+brutobi01,38,,1953,Milwaukee Braves
+brutobi01,38,,1954,Milwaukee Braves
+brutobi01,38,,1955,Milwaukee Braves
+brutobi01,38,,1956,Milwaukee Braves
+brutobi01,38,,1957,Milwaukee Braves
+brutobi01,38,,1958,Milwaukee Braves
+brutobi01,38,,1959,Milwaukee Braves
+brutobi01,38,,1960,Milwaukee Braves
+brutobi01,38,,1961,Detroit Tigers
+brutobi01,38,,1962,Detroit Tigers
+brutobi01,38,,1963,Detroit Tigers
+brutobi01,38,35000.0,1964,Detroit Tigers
+cabreev01,1,400000.0,2009,San Diego Padres
+cabreev01,1,418800.0,2010,San Diego Padres
+cabreev01,2,434000.0,2011,San Diego Padres
+cabreev01,2,975000.0,2012,San Diego Padres
+cabreev01,2,1275000.0,2013,San Diego Padres
+cabreev01,2,2450000.0,2014,San Diego Padres
+cabreev01,1,2400000.0,2015,Baltimore Orioles
+friscfr01,3,18500.0,1932,St. Louis Cardinals
+friscfr01,3,18500.0,1933,St. Louis Cardinals
+friscfr01,3,18500.0,1934,St. Louis Cardinals
+friscfr01,3,18500.0,1935,St. Louis Cardinals
+friscfr01,3,16000.0,1936,St. Louis Cardinals
+friscfr01,3,16000.0,1937,St. Louis Cardinals
+carrch02,"1, 7",100000.0,1990,New York Mets
+carrch02,27,100000.0,1991,New York Mets
+carrch02,43,109000.0,1992,St. Louis Cardinals
+carrch02,21,123000.0,1993,Florida Marlins
+carrch02,21,230000.0,1994,Florida Marlins
+carrch02,21,255000.0,1995,Florida Marlins
+carrch02,24,325000.0,1996,Milwaukee Brewers
+carrch02,24,325000.0,1997,Milwaukee Brewers
+carrch02,21,250000.0,1997,Houston Astros
+reesepe01,1,,1940,Brooklyn Dodgers
+reesepe01,1,,1941,Brooklyn Dodgers
+reesepe01,1,,1942,Brooklyn Dodgers
+reesepe01,1,,1946,Brooklyn Dodgers
+reesepe01,1,,1947,Brooklyn Dodgers
+reesepe01,1,,1948,Brooklyn Dodgers
+reesepe01,1,,1949,Brooklyn Dodgers
+reesepe01,1,35000.0,1950,Brooklyn Dodgers
+reesepe01,1,30000.0,1951,Brooklyn Dodgers
+reesepe01,1,,1952,Brooklyn Dodgers
+reesepe01,1,33500.0,1953,Brooklyn Dodgers
+reesepe01,1,,1954,Brooklyn Dodgers
+reesepe01,1,,1955,Brooklyn Dodgers
+reesepe01,1,,1956,Brooklyn Dodgers
+reesepe01,1,35000.0,1957,Brooklyn Dodgers
+reesepe01,1,30000.0,1958,Los Angeles Dodgers
+bournmi01,9,327000.0,2006,Philadelphia Phillies
+bournmi01,9,380000.0,2007,Philadelphia Phillies
+bournmi01,14,396000.0,2008,Houston Astros
+bournmi01,21,434500.0,2009,Houston Astros
+bournmi01,21,2400000.0,2010,Houston Astros
+bournmi01,21,4400000.0,2011,Houston Astros
+bournmi01,24,4400000.0,2011,Atlanta Braves
+bournmi01,24,6845000.0,2012,Atlanta Braves
+bournmi01,24,7000000.0,2013,Cleveland Indians
+bournmi01,24,13500000.0,2014,Cleveland Indians
+bournmi01,24,13500000.0,2015,Cleveland Indians
+bournmi01,2,13500000.0,2015,Atlanta Braves
+bournmi01,1,,2016,Arizona Diamondbacks
+bournmi01,1,,2016,Baltimore Orioles
+pierrju01,6,200000.0,2000,Colorado Rockies
+pierrju01,9,215000.0,2001,Colorado Rockies
+pierrju01,9,600000.0,2002,Colorado Rockies
+pierrju01,9,1000000.0,2003,Florida Marlins
+pierrju01,9,2400000.0,2004,Florida Marlins
+pierrju01,9,3700000.0,2005,Florida Marlins
+pierrju01,9,5750000.0,2006,Chicago Cubs
+pierrju01,9,7500000.0,2007,Los Angeles Dodgers
+pierrju01,9,8000000.0,2008,Los Angeles Dodgers
+pierrju01,9,10000000.0,2009,Los Angeles Dodgers
+pierrju01,1,7000000.0,2010,Chicago White Sox
+pierrju01,1,8500000.0,2011,Chicago White Sox
+pierrju01,10,800000.0,2012,Philadelphia Phillies
+pierrju01,9,1600000.0,2013,Miami Marlins
+merriwh01,15,507500.0,2016,Kansas City Royals
+merriwh01,15,547100.0,2017,Kansas City Royals
+merriwh01,15,569500.0,2018,Kansas City Royals
+merriwh01,15,1000000.0,2019,Kansas City Royals
+merriwh01,15,1850000.0,2020,Kansas City Royals
+merriwh01,15,6750000.0,2021,Kansas City Royals
+merriwh01,15,7000000.0,2022,Kansas City Royals
+merriwh01,1,7000000.0,2022,Toronto Blue Jays
+merriwh01,15,6750000.0,2023,Toronto Blue Jays
+merriwh01,9,7000000.0,2024,Philadelphia Phillies
+merriwh01,15,7000000.0,2024,Atlanta Braves
+ashburi01,1,3900.0,1948,Philadelphia Phillies
+ashburi01,1,10000.0,1949,Philadelphia Phillies
+ashburi01,1,10000.0,1950,Philadelphia Phillies
+ashburi01,1,14000.0,1951,Philadelphia Phillies
+ashburi01,1,20000.0,1952,Philadelphia Phillies
+ashburi01,1,17000.0,1953,Philadelphia Phillies
+ashburi01,1,21000.0,1954,Philadelphia Phillies
+ashburi01,1,22500.0,1955,Philadelphia Phillies
+ashburi01,1,27000.0,1956,Philadelphia Phillies
+ashburi01,1,29000.0,1957,Philadelphia Phillies
+ashburi01,1,30000.0,1958,Philadelphia Phillies
+ashburi01,1,38000.0,1959,Philadelphia Phillies
+ashburi01,1,35000.0,1960,Chicago Cubs
+ashburi01,1,32500.0,1961,Chicago Cubs
+ashburi01,1,29000.0,1962,New York Mets
+cruzon01,61,570500.0,2021,Pittsburgh Pirates
+cruzon01,15,700000.0,2022,Pittsburgh Pirates
+cruzon01,15,720000.0,2023,Pittsburgh Pirates
+cruzon01,15,755000.0,2024,Pittsburgh Pirates
+cruzon01,15,785000.0,2025,Pittsburgh Pirates
+lefloro01,42,15000.0,1974,Detroit Tigers
+lefloro01,8,16000.0,1975,Detroit Tigers
+lefloro01,8,27000.0,1976,Detroit Tigers
+lefloro01,8,73250.0,1977,Detroit Tigers
+lefloro01,8,,1978,Detroit Tigers
+lefloro01,8,,1979,Detroit Tigers
+lefloro01,7,,1980,Montreal Expos
+lefloro01,8,,1981,Chicago White Sox
+lefloro01,8,,1982,Chicago White Sox
+storytr01,27,507500.0,2016,Colorado Rockies
+storytr01,27,540000.0,2017,Colorado Rockies
+storytr01,27,555000.0,2018,Colorado Rockies
+storytr01,27,5000000.0,2019,Colorado Rockies
+storytr01,27,3330000.0,2020,Colorado Rockies
+storytr01,27,17500000.0,2021,Colorado Rockies
+storytr01,10,20000000.0,2022,Boston Red Sox
+storytr01,10,20000000.0,2023,Boston Red Sox
+storytr01,10,22500000.0,2024,Boston Red Sox
+storytr01,10,22500000.0,2025,Boston Red Sox
+mayswi01,"14, 24",7500.0,1951,New York Giants
+mayswi01,24,12500.0,1952,New York Giants
+mayswi01,24,12500.0,1954,New York Giants
+mayswi01,24,12500.0,1955,New York Giants
+mayswi01,24,30000.0,1956,New York Giants
+mayswi01,24,50000.0,1957,New York Giants
+mayswi01,24,50000.0,1958,San Francisco Giants
+mayswi01,24,160000.0,1959,San Francisco Giants
+mayswi01,24,150000.0,1960,San Francisco Giants
+mayswi01,24,75000.0,1961,San Francisco Giants
+mayswi01,24,75000.0,1962,San Francisco Giants
+mayswi01,24,80000.0,1963,San Francisco Giants
+mayswi01,24,85000.0,1964,San Francisco Giants
+mayswi01,24,90000.0,1965,San Francisco Giants
+mayswi01,24,105000.0,1966,San Francisco Giants
+mayswi01,24,105000.0,1967,San Francisco Giants
+mayswi01,24,105000.0,1968,San Francisco Giants
+mayswi01,24,125000.0,1969,San Francisco Giants
+mayswi01,24,125000.0,1970,San Francisco Giants
+mayswi01,24,160000.0,1971,San Francisco Giants
+mayswi01,24,165000.0,1972,San Francisco Giants
+mayswi01,24,165000.0,1972,New York Mets
+mayswi01,24,165000.0,1973,New York Mets
+turnetr01,7,507500.0,2015,Washington Nationals
+turnetr01,7,519000.0,2016,Washington Nationals
+turnetr01,7,554900.0,2017,Washington Nationals
+turnetr01,7,577200.0,2018,Washington Nationals
+turnetr01,7,3725000.0,2019,Washington Nationals
+turnetr01,7,2756500.0,2020,Washington Nationals
+turnetr01,7,13000000.0,2021,Washington Nationals
+turnetr01,6,13000000.0,2021,Los Angeles Dodgers
+turnetr01,6,21000000.0,2022,Los Angeles Dodgers
+turnetr01,7,27272727.0,2023,Philadelphia Phillies
+turnetr01,7,27272727.0,2024,Philadelphia Phillies
+turnetr01,7,27272727.0,2025,Philadelphia Phillies
+taverfr01,10,12750.0,1971,Pittsburgh Pirates
+taverfr01,10,13500.0,1972,Pittsburgh Pirates
+taverfr01,10,,1974,Pittsburgh Pirates
+taverfr01,10,,1975,Pittsburgh Pirates
+taverfr01,10,32000.0,1976,Pittsburgh Pirates
+taverfr01,10,75000.0,1977,Pittsburgh Pirates
+taverfr01,10,,1978,Pittsburgh Pirates
+taverfr01,10,,1979,Pittsburgh Pirates
+taverfr01,11,,1979,New York Mets
+taverfr01,11,195000.0,1980,New York Mets
+taverfr01,11,195000.0,1981,New York Mets
+taverfr01,11,195000.0,1982,Montreal Expos
+verasqu01,3,109000.0,1995,Florida Marlins
+verasqu01,3,230000.0,1996,Florida Marlins
+verasqu01,4,310000.0,1997,San Diego Padres
+verasqu01,4,1100000.0,1998,San Diego Padres
+verasqu01,4,2110000.0,1999,San Diego Padres
+verasqu01,4,3000000.0,2000,Atlanta Braves
+verasqu01,4,3900000.0,2001,Atlanta Braves
+jethrsa01,5,5000.0,1950,Boston Braves
+jethrsa01,5,6500.0,1951,Boston Braves
+jethrsa01,5,6100.0,1952,Boston Braves
+jethrsa01,20,5500.0,1954,Pittsburgh Pirates
+patekfr01,2,,1968,Pittsburgh Pirates
+patekfr01,2,,1969,Pittsburgh Pirates
+patekfr01,2,,1970,Pittsburgh Pirates
+patekfr01,"2, 37",,1971,Kansas City Royals
+patekfr01,37,,1972,Kansas City Royals
+patekfr01,37,40000.0,1973,Kansas City Royals
+patekfr01,37,55000.0,1974,Kansas City Royals
+patekfr01,2,65000.0,1975,Kansas City Royals
+patekfr01,2,75000.0,1976,Kansas City Royals
+patekfr01,2,135000.0,1977,Kansas City Royals
+patekfr01,2,165000.0,1978,Kansas City Royals
+patekfr01,2,200000.0,1979,Kansas City Royals
+patekfr01,2,185000.0,1980,California Angels
+patekfr01,2,185000.0,1981,California Angels
+crosefr01,5,8000.0,1932,New York Yankees
+crosefr01,5,7500.0,1933,New York Yankees
+crosefr01,5,7000.0,1934,New York Yankees
+crosefr01,5,10000.0,1935,New York Yankees
+crosefr01,5,10000.0,1936,New York Yankees
+crosefr01,1,13000.0,1937,New York Yankees
+crosefr01,1,14000.0,1938,New York Yankees
+crosefr01,1,15000.0,1939,New York Yankees
+crosefr01,1,16000.0,1940,New York Yankees
+crosefr01,1,12000.0,1941,New York Yankees
+crosefr01,1,11000.0,1942,New York Yankees
+crosefr01,1,11000.0,1943,New York Yankees
+crosefr01,1,15000.0,1944,New York Yankees
+crosefr01,2,15000.0,1945,New York Yankees
+crosefr01,2,16000.0,1946,New York Yankees
+crosefr01,2,16000.0,1947,New York Yankees
+crosefr01,2,7500.0,1948,New York Yankees
