@@ -1,3 +1,4 @@
+"""This program cleans the raw data which was retrieved from web_scraping.py"""
 import pandas as pd
 
 ### Clean YoY stats first

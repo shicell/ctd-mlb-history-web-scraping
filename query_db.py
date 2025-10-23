@@ -1,3 +1,4 @@
+"""This program allows users to query the database base_running from 3 predefined queries"""
 import sqlite3
 
 # allows you to connect to database when needed
@@ -11,23 +12,23 @@ def get_connected():
 # shows menu of options to pick from
 def show_menu():
     print("\nQuery options include:")
-    print("\n1. Top N players from range of years by salary")
-    print("\n2. Top N players by Stolen Base Percentage of Leading Year in a team")
-    print("\n3. Top N players by Difference between Leadership Stolen Base Percentage" \
+    print("1. Top N players from range of years by salary")
+    print("2. Top N players by Stolen Base Percentage of Leading Year in a team")
+    print("3. Top N players by Difference between Leadership Stolen Base Percentage" \
             "and overall Stolen Base Percentage")
-    print("\n4. Exit")
+    print("4. Exit")
 
 # first query option
 def option_1(conn):
     try:
-        # print instrunctions to user
+        # print instructions to user
         print("\nYou will be asked to enter values for a varierty of variables.")
-        print("\nTo skip, leave entry blank. Input will include:")
-        print("\n    year (start): the lower bound of for year, from which players" \
+        print("To skip, leave entry blank. Input will include:")
+        print("    year (start): the lower bound of for year, from which players" \
               "were top base stealers")
-        print("\n    year (end): the upper bound of for year, from which players" \
+        print("    year (end): the upper bound of for year, from which players" \
               "were top base stealers")
-        print("\n    top n: the maximum number of players to display, ordered by" \
+        print("    top n: the maximum number of players to display, ordered by" \
               "salary descending. Default is 10.")
 
         # validate input
@@ -88,12 +89,12 @@ def option_1(conn):
 # second query option
 def option_2(conn):
     try:
-        # print instrunctions to user
+        # print instructions to user
         print("\nYou will be asked to enter values for a varierty of variables.")
-        print("\nTo skip, leave entry blank. Input will include:")
-        print("\n    team: the name of the team from either the American or National League " \
+        print("To skip, leave entry blank. Input will include:")
+        print("    team: the name of the team from either the American or National League " \
         "(eg. Miami)")
-        print("\n    top n: the maximum number of players to display, ordered by Stolen Base" \
+        print("    top n: the maximum number of players to display, ordered by Stolen Base" \
               "Percentage descending. Default is 10.")
 
         # validate input
@@ -137,12 +138,12 @@ def option_2(conn):
 # third query option
 def option_3(conn):
     try:
-        # print instrunctions to user
-        print("\nYou will be asked to enter values for a varierty of variables. ")
-        print("\nTo skip, leave entry blank. Input will include: ")
-        print("\n    max threshold: maximum difference between the player's leadership and " \
+        # print instructions to user
+        print("You will be asked to enter values for a varierty of variables. ")
+        print("To skip, leave entry blank. Input will include: ")
+        print("    max threshold: maximum difference between the player's leadership and " \
               "overall Stolen Base Percentage")
-        print("\n    top n: the maximum number of players to display, ordered by difference " \
+        print("    top n: the maximum number of players to display, ordered by difference " \
                 "descending. Default is 10.")
         
         # validate input
@@ -150,7 +151,7 @@ def option_3(conn):
             threshold = input("Enter max threshold: ").strip()
             try:
                 if not threshold:
-                    threshold = 0
+                    threshold = 100
                 threshold = float(threshold)
                 break  # Exit the loop if conversion is successful
             except ValueError:

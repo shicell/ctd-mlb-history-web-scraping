@@ -1,4 +1,4 @@
-"""Create database based on tables from cleaned data"""
+"""Create database based on tables from cleaned data from clean.py"""
 import sqlite3
 import pandas as pd
 
